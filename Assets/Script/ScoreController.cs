@@ -40,7 +40,7 @@ public class ScoreController : MonoBehaviour {
 		if (ThePlayer.SuperMode) {
 			CoolDown = 0.05f;
 		} else {
-			CoolDown = 1;
+			CoolDown = 2;
 		}
 
 		if (ThePlayer.Endless == true) {

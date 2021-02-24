@@ -102,7 +102,7 @@ public class EnemyController : MonoBehaviour {
 				theSuper.EnergyBar.value += 20;
 			}
 			Instantiate (particlesKilled, transform.position, transform.rotation);
-			ThePlayer.TheScore.MyScore += 100;
+			ThePlayer.TheScore.MyScore += 10;
 			Destroy (gameObject);
 		}
 

@@ -51,17 +51,19 @@ public class KoinController : MonoBehaviour {
 					TheInfos.ShowSelectedInfo (InfoToShow);
 				} else {
 					TheInfos.ShowInfo ();
+					TheInfos.buttonOkay.SetActive(true);
+					Time.timeScale = 0;
 				}
 			}
 
 			//menambah points
 			if (NoInfo == false) {
-				TheScore.MyScore += 10;
+				TheScore.MyScore += 5;
 				//PlayGameScript.IncrementAchievement (GPGSIds.achievement_little_knowledge, 1);
 				//PlayGameScript.IncrementAchievement (GPGSIds.achievement_medium_knowledge, 1);
 				//PlayGameScript.IncrementAchievement (GPGSIds.achievement_big_knowledge, 1);
 			} else {
-				TheScore.MyScore += 5;
+				TheScore.MyScore += 2;
 			}
 
 			//Me-nonaktifkan questions

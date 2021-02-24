@@ -18,6 +18,7 @@ public class InfoController : MonoBehaviour {
 	private int LastInfoShown;
 
 	private PlayerController thePlayer;
+	public GameObject buttonOkay;
 
 	// Use this for initialization
 	void Start () {
@@ -100,5 +101,18 @@ public class InfoController : MonoBehaviour {
 		for (int i = 0; i < Info.Length; i++) {
 			Info [i].SetActive (false);
 		}
+	}
+
+	public void CloseInfo()
+	{
+		Face.SetActive(false);
+		IsShowingInfo = false;
+		Box.SetActive(false);
+		for (int i = 0; i < Info.Length; i++)
+		{
+			Info[i].SetActive(false);
+		}
+		Time.timeScale = 1;
+		buttonOkay.SetActive(false);
 	}
 }

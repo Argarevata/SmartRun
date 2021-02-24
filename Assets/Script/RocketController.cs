@@ -61,7 +61,7 @@ public class RocketController : MonoBehaviour {
 
 		//Jika player berhasil menghindar maka score bertambah 
 		if (MyBody.transform.position.x < ThePlayer.transform.position.x && IsDone == false) {
-			TheScore.MyScore += 100;
+			TheScore.MyScore += 20;
 			//PlayGameScript.IncrementAchievement (GPGSIds.achievement_smart, 1);
 			//PlayGameScript.IncrementAchievement (GPGSIds.achievement_brilliant, 1);
 			//PlayGameScript.IncrementAchievement (GPGSIds.achievement_genius, 1);

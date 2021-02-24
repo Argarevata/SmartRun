@@ -286,7 +286,7 @@ public class PlayerController : MonoBehaviour {
 		{
 				TheSFX.SlideSFX.Stop ();
 				Grounded = false;
-				TheTime.UnSlowMo ();
+				//TheTime.UnSlowMo ();
 				Speed = NormalSpeed;
 				MyBody.velocity = new Vector2 (Speed, JumpForce);
 				Anim.SetBool ("Jump", true);
@@ -304,7 +304,7 @@ public class PlayerController : MonoBehaviour {
 		if (CanMove == true && ThePause.GamePaused == false) 
 		{
 			Grounded = false;
-			TheTime.UnSlowMo ();
+			//TheTime.UnSlowMo ();
 			MyBody.velocity = new Vector2 (Speed, -JumpForce * 2);
 			Anim.SetBool ("Slide", true);
 			ActualSlideCoolDown = 0f;
@@ -339,6 +339,11 @@ public class PlayerController : MonoBehaviour {
 		yield return new WaitForSecondsRealtime (1f);
 		SpeedText.SetActive (false);
 		//SpeedParticles.SetActive (false);
+	}
+
+	public void UnpauseTime()
+	{
+		Time.timeScale = 1;
 	}
 
 }

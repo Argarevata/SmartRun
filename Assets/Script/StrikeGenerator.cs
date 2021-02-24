@@ -15,6 +15,8 @@ public class StrikeGenerator : MonoBehaviour {
 	public GameObject Low;
 	public GameObject SpawnerPos;
 
+	public GameObject spawnedRocket1, spawnedRocket2;
+
 	public GameObject BadThumbs, BadThumbsLandscape;
 	public GameObject GoodThumbs, GoodThumbsLandscape;
 
@@ -52,6 +54,8 @@ public class StrikeGenerator : MonoBehaviour {
 	public bool TheTriple;
 
 	public bool DisablePause;
+	public GameObject buttonGroup;
+	public Text textBtn1, textBtn2, textBtn3, textBtn4;
 
 	[SerializeField]
 	private int lastQuestion;
@@ -93,6 +97,8 @@ public class StrikeGenerator : MonoBehaviour {
 		//Random pertanyaan yang akan muncul diambil dari info yang sudah pernah muncul
 		int no = Random.Range (0, TheInfo.OutInfos.Length);
 
+		buttonGroup.SetActive(true);
+
 		if (no == lastQuestion) {
 			do {
 				no = Random.Range (0, TheInfo.OutInfos.Length);
@@ -113,8 +119,15 @@ public class StrikeGenerator : MonoBehaviour {
 
 		//Menerapkan pertanyaan dan jawaban yang sudah terpilih dari random di atas[Portrait]
 		TheQuestion.text = Questions [randQuestion];
-		TheRightAnswer.text = RightAnswer [randQuestion];
-		TheWrongAnswer.text = WrongAnswer [randQuestion];
+		//TheRightAnswer.text = RightAnswer [randQuestion];
+		//TheWrongAnswer.text = WrongAnswer [randQuestion];
+		TheRightAnswer.text = "";
+		TheWrongAnswer.text = "";
+
+		textBtn1.text = RightAnswer[randQuestion];
+		textBtn2.text = WrongAnswer[randQuestion];
+		textBtn3.text = WrongAnswer[randQuestion];
+		textBtn4.text = WrongAnswer[randQuestion];
 
 		//Menampilkan pertanyaan dan jawaban yang sudah terpilih dari random di atas
 		if (PlayerPrefs.GetInt ("Orientation") == 1) {
@@ -163,9 +176,12 @@ public class StrikeGenerator : MonoBehaviour {
 		}
 
 		//melakukan slow mo selama beberapa detik
-		TheTime.SlowMo ();
+		//TheTime.SlowMo ();
+		Time.timeScale = 0;
 		//Generate rocket
-		Instantiate (Rocket, SpawnerPos.transform.position, SpawnerPos.transform.rotation);
+		Vector2 spawnPos = new Vector2(High.transform.position.x, ThePlayer.transform.position.y+3);
+		spawnedRocket1 = Instantiate (Rocket, spawnPos, SpawnerPos.transform.rotation);
+		//spawnedRocket2 = Instantiate(Rocket, Low.transform.position, SpawnerPos.transform.rotation);
 
 	}
 
@@ -269,5 +285,22 @@ public class StrikeGenerator : MonoBehaviour {
 		TheTriple = false;
 		TheWarning.SetActive (false);
 		DisablePause = false;
+	}
+
+	public void Answer(bool status)
+	{
+		if (status)
+		{
+			//benar
+			Destroy(spawnedRocket1);
+			//Destroy(spawnedRocket2);
+		}
+		else
+		{
+			//salah
+		}
+		TheQuestion.gameObject.SetActive(false);
+		Box.SetActive(false);
+		Time.timeScale = 1;
 	}
 }

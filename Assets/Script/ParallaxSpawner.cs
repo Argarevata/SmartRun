@@ -36,7 +36,45 @@ public class ParallaxSpawner : MonoBehaviour {
 		//untuk BackGround
 		if (ActualCoolDown >= CoolDown) {
 			ActualCoolDown = 0;
-			CoolDown = Random.Range (2f, 4.5f);
+			switch (ThePlayer.Speed)
+			{
+				case 8:
+					{
+						CoolDown = Random.Range(3f, 4f);
+						break;
+					}
+				case 10:
+					{
+						CoolDown = Random.Range(2.5f, 3f);
+						break;
+					}
+				case 11:
+					{
+						CoolDown = Random.Range(2f, 2.5f);
+						break;
+					}
+				case 12:
+					{
+						CoolDown = Random.Range(1.5f, 2f);
+						break;
+					}
+				case 13:
+					{
+						CoolDown = Random.Range(1.5f, 2f);
+						break;
+					}
+				case 14:
+					{
+						CoolDown = Random.Range(1.5f, 1.6f);
+						break;
+					}
+				case 15:
+					{
+						CoolDown = Random.Range(1f, 1.1f);
+						break;
+					}
+			}
+
 			int rand = Random.Range (0, Parallax.Length);
 			Instantiate (Parallax [rand], transform.position, transform.rotation);
 		}
