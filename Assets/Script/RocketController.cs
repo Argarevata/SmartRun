@@ -102,4 +102,18 @@ public class RocketController : MonoBehaviour {
 		yield return new WaitForSeconds (7);
 		Destroy (gameObject);
 	}
+
+	public void AnsweredRight()
+	{
+		TheScore.MyScore += 20;
+		if (PlayerPrefs.GetInt("Orientation") == 1)
+		{
+			TheStrike.GoodThumbs.SetActive(true);
+		}
+		else if (PlayerPrefs.GetInt("Orientation") == 0)
+		{
+			TheStrike.GoodThumbsLandscape.SetActive(true);
+		}
+		IsDone = true;
+	}
 }

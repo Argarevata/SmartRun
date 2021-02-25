@@ -9,6 +9,7 @@ public class StrikeGenerator : MonoBehaviour {
 
 	//Roket yang akan muncul
 	public GameObject Rocket;
+	public RocketTimer theRocketTimer;
 
 	//Posisi munculnya roket
 	public GameObject High;
@@ -29,7 +30,7 @@ public class StrikeGenerator : MonoBehaviour {
 	//Kumpulan Pertanyaan dan jawaban yang akan di-random
 	public string[] Questions;
 	public string[] RightAnswer;
-	public string[] WrongAnswer;
+	public string[] WrongAnswer, WrongAnswer2, WrongAnswer3;
 	public GameObject Box;
 
 	//Pertanyaan dan jawaban yang sudah dirandom dan akan muncul [Portrait]
@@ -59,6 +60,10 @@ public class StrikeGenerator : MonoBehaviour {
 
 	[SerializeField]
 	private int lastQuestion;
+
+	public RectTransform[] questionButtons, questionBtnPos;
+	public int[] filledPos;
+	public ScoreController TheScore;
 
 	// Use this for initialization
 	void Start () {
@@ -126,8 +131,12 @@ public class StrikeGenerator : MonoBehaviour {
 
 		textBtn1.text = RightAnswer[randQuestion];
 		textBtn2.text = WrongAnswer[randQuestion];
-		textBtn3.text = WrongAnswer[randQuestion];
-		textBtn4.text = WrongAnswer[randQuestion];
+		textBtn3.text = WrongAnswer2[randQuestion];
+		textBtn4.text = WrongAnswer3[randQuestion];
+
+		ScrambleQuestionBtnPos();
+		theRocketTimer.gameObject.SetActive(true);
+
 
 		//Menampilkan pertanyaan dan jawaban yang sudah terpilih dari random di atas
 		if (PlayerPrefs.GetInt ("Orientation") == 1) {
@@ -292,6 +301,15 @@ public class StrikeGenerator : MonoBehaviour {
 		if (status)
 		{
 			//benar
+			TheScore.MyScore += 20;
+			if (PlayerPrefs.GetInt("Orientation") == 1)
+			{
+				GoodThumbs.SetActive(true);
+			}
+			else if (PlayerPrefs.GetInt("Orientation") == 0)
+			{
+				GoodThumbsLandscape.SetActive(true);
+			}
 			Destroy(spawnedRocket1);
 			//Destroy(spawnedRocket2);
 		}
@@ -299,8 +317,29 @@ public class StrikeGenerator : MonoBehaviour {
 		{
 			//salah
 		}
+		theRocketTimer.gameObject.SetActive(false);
 		TheQuestion.gameObject.SetActive(false);
 		Box.SetActive(false);
 		Time.timeScale = 1;
+	}
+
+	public void ScrambleQuestionBtnPos()
+	{
+		for (int i = 0; i < 4; i++)
+		{
+			filledPos[i] = -1;
+		}
+
+		for (int i = 0; i < 4; i++)
+		{
+			int x = 0;
+			do
+			{
+				x = Random.Range(0, 4);
+			}
+			while (x == filledPos[0] || x == filledPos[1] || x == filledPos[2] || x == filledPos[3]);
+			questionButtons[i].position = questionBtnPos[x].position;
+			filledPos[i] = x;
+		}
 	}
 }

@@ -12,6 +12,7 @@ public class RocketTimer : MonoBehaviour {
 	public Slider WheelSlider;
 	public Text CounterText;
 	public int Counter;
+	public StrikeGenerator theStrike;
 
 	// Use this for initialization
 	void Start () {
@@ -19,15 +20,23 @@ public class RocketTimer : MonoBehaviour {
 		WheelSlider.maxValue = DeadLine;
 		WheelSlider.value = TimeLeft;
 	}
-	
-	// Update is called once per frame
-	void Update () {
+
+    private void OnEnable()
+    {
+		TimeLeft = 0;
+		WheelSlider.maxValue = DeadLine;
+		WheelSlider.value = TimeLeft;
+	}
+
+    // Update is called once per frame
+    void Update () {
 		TimeLeft += Time.unscaledDeltaTime;
 		CounterText.text = "" + (Mathf.RoundToInt(DeadLine - TimeLeft)); 
 		WheelSlider.value = TimeLeft;
 
 		//Jika waktu habis maka akan disable
 		if (TimeLeft >= DeadLine) {
+			theStrike.Answer(false);
 			gameObject.SetActive (false);
 		}
 	}

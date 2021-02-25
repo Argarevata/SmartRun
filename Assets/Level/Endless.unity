@@ -243,7 +243,7 @@ MonoBehaviour:
     m_Font: {fileID: 12800000, guid: f0c9e3ada6611f24ab8dedd51a55eacd, type: 3}
     m_FontSize: 35
     m_FontStyle: 0
-    m_BestFit: 0
+    m_BestFit: 1
     m_MinSize: 2
     m_MaxSize: 50
     m_Alignment: 4
@@ -252,7 +252,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.5
-  m_Text: "Sony Kusumo merupakan Pengusaha di bidang IT dan Property\r\n"
+  m_Text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
+    fugiat nulla pariatur
 --- !u!222 &34591035
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -307,7 +311,7 @@ RectTransform:
   m_LocalScale: {x: 1.3500001, y: 1.3500001, z: 1.3500001}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 16
+  m_RootOrder: 17
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -480,7 +484,7 @@ RectTransform:
   - {fileID: 794992044}
   - {fileID: 741380220}
   m_Father: {fileID: 250942657}
-  m_RootOrder: 10
+  m_RootOrder: 9
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -515,15 +519,15 @@ RectTransform:
   m_GameObject: {fileID: 79111916}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 0.99999994, y: 0.99999994, z: 0.99999994}
   m_Children: []
   m_Father: {fileID: 1876582327}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 3.3, y: 66.019}
-  m_SizeDelta: {x: 477.3, y: 209.96}
+  m_AnchoredPosition: {x: 1.3, y: -33.1}
+  m_SizeDelta: {x: 649.2, y: 451.1}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &79111918
 MonoBehaviour:
@@ -547,7 +551,7 @@ MonoBehaviour:
     m_Font: {fileID: 12800000, guid: f0c9e3ada6611f24ab8dedd51a55eacd, type: 3}
     m_FontSize: 30
     m_FontStyle: 0
-    m_BestFit: 0
+    m_BestFit: 1
     m_MinSize: 2
     m_MaxSize: 50
     m_Alignment: 4
@@ -639,7 +643,7 @@ MonoBehaviour:
     m_Font: {fileID: 12800000, guid: f0c9e3ada6611f24ab8dedd51a55eacd, type: 3}
     m_FontSize: 35
     m_FontStyle: 0
-    m_BestFit: 0
+    m_BestFit: 1
     m_MinSize: 2
     m_MaxSize: 50
     m_Alignment: 4
@@ -648,7 +652,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.5
-  m_Text: "Bentuk negara indonesia adalah kesatuan\r\n"
+  m_Text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
+    fugiat nulla pariatur
 --- !u!222 &90322153
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -885,7 +893,7 @@ MonoBehaviour:
     m_Font: {fileID: 12800000, guid: f0c9e3ada6611f24ab8dedd51a55eacd, type: 3}
     m_FontSize: 35
     m_FontStyle: 0
-    m_BestFit: 0
+    m_BestFit: 1
     m_MinSize: 2
     m_MaxSize: 50
     m_Alignment: 4
@@ -894,7 +902,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.5
-  m_Text: "Sony Kusumo adalah Caleg dengan nomor urut 7 dari Partai PDI Perjuangan\r\n"
+  m_Text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
+    fugiat nulla pariatur
 --- !u!222 &108708216
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -962,7 +974,7 @@ MonoBehaviour:
     m_Font: {fileID: 12800000, guid: f0c9e3ada6611f24ab8dedd51a55eacd, type: 3}
     m_FontSize: 35
     m_FontStyle: 0
-    m_BestFit: 0
+    m_BestFit: 1
     m_MinSize: 2
     m_MaxSize: 50
     m_Alignment: 4
@@ -971,8 +983,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.5
-  m_Text: "Sony Kusumo memperkenalkan konsep 4M, yaitu salah satunya Mandiri Diri
-    Sendiri\r\n"
+  m_Text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
+    fugiat nulla pariatur
 --- !u!222 &114578445
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1022,7 +1037,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4727084496784550, guid: 99b3b1506120b6645bdb689936be22b2, type: 3}
       propertyPath: m_RootOrder
-      value: 2
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 4727084496784550, guid: 99b3b1506120b6645bdb689936be22b2, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -1097,7 +1112,7 @@ MonoBehaviour:
     m_Font: {fileID: 12800000, guid: f0c9e3ada6611f24ab8dedd51a55eacd, type: 3}
     m_FontSize: 35
     m_FontStyle: 0
-    m_BestFit: 0
+    m_BestFit: 1
     m_MinSize: 2
     m_MaxSize: 50
     m_Alignment: 4
@@ -1106,8 +1121,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.5
-  m_Text: "Pendidikan bermutu yang ditekankan oleh Sony Kusumo salah satunya adalah
-    Kemampuan Menganalisis\r\n"
+  m_Text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
+    fugiat nulla pariatur
 --- !u!222 &122552057
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1254,6 +1272,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: StrikeAmulet
       objectReference: {fileID: 0}
+    - target: {fileID: 1334334069703382, guid: ea0f04df64f9b234f96cc73b0427e36c, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 4710871584261898, guid: ea0f04df64f9b234f96cc73b0427e36c, type: 3}
       propertyPath: m_LocalPosition.x
       value: 17.9
@@ -1284,7 +1306,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4710871584261898, guid: ea0f04df64f9b234f96cc73b0427e36c, type: 3}
       propertyPath: m_RootOrder
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 4710871584261898, guid: ea0f04df64f9b234f96cc73b0427e36c, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -1458,7 +1480,7 @@ MonoBehaviour:
     m_Font: {fileID: 12800000, guid: f0c9e3ada6611f24ab8dedd51a55eacd, type: 3}
     m_FontSize: 35
     m_FontStyle: 0
-    m_BestFit: 0
+    m_BestFit: 1
     m_MinSize: 2
     m_MaxSize: 50
     m_Alignment: 4
@@ -1467,7 +1489,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.5
-  m_Text: "Sony Kusumo adalah Pendiri Yayasan Pendidikan Permai\r\n"
+  m_Text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
+    fugiat nulla pariatur
 --- !u!222 &128374862
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1507,7 +1533,7 @@ RectTransform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 250942657}
-  m_RootOrder: 9
+  m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 1}
   m_AnchorMax: {x: 0.5, y: 1}
@@ -1634,7 +1660,7 @@ MonoBehaviour:
     m_Font: {fileID: 12800000, guid: f0c9e3ada6611f24ab8dedd51a55eacd, type: 3}
     m_FontSize: 35
     m_FontStyle: 0
-    m_BestFit: 0
+    m_BestFit: 1
     m_MinSize: 2
     m_MaxSize: 50
     m_Alignment: 4
@@ -1643,7 +1669,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.5
-  m_Text: "Sony Kusumo memperkenalkan konsep 4M, yaitu salah satunya Mandiri Usaha\r\n"
+  m_Text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
+    fugiat nulla pariatur
 --- !u!222 &133749477
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1711,7 +1741,7 @@ MonoBehaviour:
     m_Font: {fileID: 12800000, guid: f0c9e3ada6611f24ab8dedd51a55eacd, type: 3}
     m_FontSize: 35
     m_FontStyle: 0
-    m_BestFit: 0
+    m_BestFit: 1
     m_MinSize: 2
     m_MaxSize: 50
     m_Alignment: 4
@@ -1720,7 +1750,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.5
-  m_Text: "Jokowi merupakan presiden RI ke 7.\r\n"
+  m_Text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
+    fugiat nulla pariatur
 --- !u!222 &138826502
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1931,7 +1965,7 @@ MonoBehaviour:
     m_Font: {fileID: 12800000, guid: f0c9e3ada6611f24ab8dedd51a55eacd, type: 3}
     m_FontSize: 35
     m_FontStyle: 0
-    m_BestFit: 0
+    m_BestFit: 1
     m_MinSize: 2
     m_MaxSize: 50
     m_Alignment: 4
@@ -1940,7 +1974,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.5
-  m_Text: "Trade Surplus dapat meningkatkan daya beli masyarakat\r"
+  m_Text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
+    fugiat nulla pariatur
 --- !u!222 &142945654
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -2119,7 +2157,7 @@ MonoBehaviour:
     m_Font: {fileID: 12800000, guid: f0c9e3ada6611f24ab8dedd51a55eacd, type: 3}
     m_FontSize: 35
     m_FontStyle: 0
-    m_BestFit: 0
+    m_BestFit: 1
     m_MinSize: 2
     m_MaxSize: 50
     m_Alignment: 4
@@ -2128,7 +2166,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.5
-  m_Text: "Indonesia adalah Negara yang berlandaskan Hukum\r\n"
+  m_Text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
+    fugiat nulla pariatur
 --- !u!222 &147497093
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -2273,7 +2315,7 @@ MonoBehaviour:
     m_Font: {fileID: 12800000, guid: f0c9e3ada6611f24ab8dedd51a55eacd, type: 3}
     m_FontSize: 35
     m_FontStyle: 0
-    m_BestFit: 0
+    m_BestFit: 1
     m_MinSize: 2
     m_MaxSize: 50
     m_Alignment: 4
@@ -2282,7 +2324,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.5
-  m_Text: "Di era jokowi, Pemerintahan Indonesia berhasil memiliki 51% saham freeport.\r\n"
+  m_Text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
+    fugiat nulla pariatur
 --- !u!222 &173927790
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -2324,7 +2370,7 @@ RectTransform:
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 0, y: 0}
+  m_AnchorMax: {x: 1, y: 1}
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
@@ -2422,7 +2468,7 @@ MonoBehaviour:
     m_Font: {fileID: 12800000, guid: f0c9e3ada6611f24ab8dedd51a55eacd, type: 3}
     m_FontSize: 35
     m_FontStyle: 0
-    m_BestFit: 0
+    m_BestFit: 1
     m_MinSize: 2
     m_MaxSize: 50
     m_Alignment: 4
@@ -2431,7 +2477,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.5
-  m_Text: "PDI-P mendapatkan nomor urut 3 untuk Peserta Pemilu 2019 \r\n"
+  m_Text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
+    fugiat nulla pariatur
 --- !u!222 &185750191
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -2535,7 +2585,7 @@ MonoBehaviour:
     m_Font: {fileID: 12800000, guid: f0c9e3ada6611f24ab8dedd51a55eacd, type: 3}
     m_FontSize: 35
     m_FontStyle: 0
-    m_BestFit: 0
+    m_BestFit: 1
     m_MinSize: 2
     m_MaxSize: 50
     m_Alignment: 4
@@ -2544,7 +2594,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.5
-  m_Text: "Semboyan bangsa indonesia adalah bhinneka tunggal ika\r\n"
+  m_Text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
+    fugiat nulla pariatur
 --- !u!222 &245138059
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -2645,7 +2699,6 @@ RectTransform:
   m_Children:
   - {fileID: 96282018}
   - {fileID: 1561771233}
-  - {fileID: 292534836}
   - {fileID: 923211453}
   - {fileID: 955523999}
   - {fileID: 339358347}
@@ -2656,9 +2709,10 @@ RectTransform:
   - {fileID: 68493027}
   - {fileID: 439287923}
   - {fileID: 361480795}
+  - {fileID: 292534836}
   - {fileID: 146472245}
   m_Father: {fileID: 0}
-  m_RootOrder: 6
+  m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -2952,7 +3006,7 @@ MonoBehaviour:
     m_Font: {fileID: 12800000, guid: f0c9e3ada6611f24ab8dedd51a55eacd, type: 3}
     m_FontSize: 35
     m_FontStyle: 0
-    m_BestFit: 0
+    m_BestFit: 1
     m_MinSize: 2
     m_MaxSize: 50
     m_Alignment: 4
@@ -2961,7 +3015,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.5
-  m_Text: "Joko Widodo juga dikenal dengan nama Jokowi.\r\n"
+  m_Text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
+    fugiat nulla pariatur
 --- !u!222 &280240120
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -3029,7 +3087,7 @@ MonoBehaviour:
     m_Font: {fileID: 12800000, guid: f0c9e3ada6611f24ab8dedd51a55eacd, type: 3}
     m_FontSize: 35
     m_FontStyle: 0
-    m_BestFit: 0
+    m_BestFit: 1
     m_MinSize: 2
     m_MaxSize: 50
     m_Alignment: 4
@@ -3038,8 +3096,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.5
-  m_Text: "Sony Kusumo menanamkan agar kita jangan mau diadu-domba karena bangsa luar
-    tidak mau kita mandiri ekonomi\r\n"
+  m_Text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
+    fugiat nulla pariatur
 --- !u!222 &289144221
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -3075,16 +3136,16 @@ RectTransform:
   m_GameObject: {fileID: 292534835}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+  m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 569760485}
   - {fileID: 40139591}
   m_Father: {fileID: 250942657}
-  m_RootOrder: 2
+  m_RootOrder: 12
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -32, y: 83}
+  m_AnchoredPosition: {x: -32, y: 222}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &292534837
@@ -3100,10 +3161,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   TimeLeft: 0
-  DeadLine: 5
+  DeadLine: 10
   WheelSlider: {fileID: 569760486}
   CounterText: {fileID: 1882507268}
   Counter: 0
+  theStrike: {fileID: 711300571}
 --- !u!222 &292534838
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -3263,7 +3325,7 @@ MonoBehaviour:
     m_Font: {fileID: 12800000, guid: f0c9e3ada6611f24ab8dedd51a55eacd, type: 3}
     m_FontSize: 35
     m_FontStyle: 0
-    m_BestFit: 0
+    m_BestFit: 1
     m_MinSize: 2
     m_MaxSize: 50
     m_Alignment: 4
@@ -3272,8 +3334,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.5
-  m_Text: "Julukan kehormatan terhadap bendera Merah Putih adalah Sang Saka Merah
-    Putih\r\n"
+  m_Text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
+    fugiat nulla pariatur
 --- !u!222 &314681299
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -3364,6 +3429,28 @@ MonoBehaviour:
       - m_Target: {fileID: 711300571}
         m_MethodName: Answer
         m_Mode: 6
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 1820308260}
+        m_MethodName: SetActive
+        m_Mode: 6
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 1278930833}
+        m_MethodName: Play
+        m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
@@ -3486,7 +3573,7 @@ RectTransform:
   - {fileID: 220785067}
   - {fileID: 596608463}
   m_Father: {fileID: 250942657}
-  m_RootOrder: 5
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0.8644063}
   m_AnchorMax: {x: 0.41500002, y: 1}
@@ -3552,7 +3639,7 @@ MonoBehaviour:
     m_Font: {fileID: 12800000, guid: f0c9e3ada6611f24ab8dedd51a55eacd, type: 3}
     m_FontSize: 35
     m_FontStyle: 0
-    m_BestFit: 0
+    m_BestFit: 1
     m_MinSize: 2
     m_MaxSize: 50
     m_Alignment: 4
@@ -3561,7 +3648,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.5
-  m_Text: "Joko Widodo merupakan lulusan dari Universitas Gajah Mada.\r\n"
+  m_Text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
+    fugiat nulla pariatur
 --- !u!222 &342207965
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -3600,7 +3691,7 @@ RectTransform:
   - {fileID: 520305069}
   - {fileID: 1693984073}
   m_Father: {fileID: 250942657}
-  m_RootOrder: 12
+  m_RootOrder: 11
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -3696,7 +3787,7 @@ MonoBehaviour:
     m_Font: {fileID: 12800000, guid: f0c9e3ada6611f24ab8dedd51a55eacd, type: 3}
     m_FontSize: 35
     m_FontStyle: 0
-    m_BestFit: 0
+    m_BestFit: 1
     m_MinSize: 2
     m_MaxSize: 50
     m_Alignment: 4
@@ -3705,7 +3796,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.5
-  m_Text: "Sony Kusumo memperjuangkan Pancasila dengan semboyan Bhineka Tunggal Ika\r\n"
+  m_Text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
+    fugiat nulla pariatur
 --- !u!222 &375263390
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -3773,7 +3868,7 @@ MonoBehaviour:
     m_Font: {fileID: 12800000, guid: f0c9e3ada6611f24ab8dedd51a55eacd, type: 3}
     m_FontSize: 35
     m_FontStyle: 0
-    m_BestFit: 0
+    m_BestFit: 1
     m_MinSize: 2
     m_MaxSize: 50
     m_Alignment: 4
@@ -3782,8 +3877,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.5
-  m_Text: "Sony Kusumo adalah Caleg DPR RI dari Partai PDI Perjuangan dengan nomor
-    7\r\n"
+  m_Text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
+    fugiat nulla pariatur
 --- !u!222 &381296962
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -3960,7 +4058,7 @@ MonoBehaviour:
     m_Font: {fileID: 12800000, guid: f0c9e3ada6611f24ab8dedd51a55eacd, type: 3}
     m_FontSize: 35
     m_FontStyle: 0
-    m_BestFit: 0
+    m_BestFit: 1
     m_MinSize: 2
     m_MaxSize: 50
     m_Alignment: 4
@@ -3969,7 +4067,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.5
-  m_Text: "Salah satu Program Kerja Sony Kusumo adalah Pendidikan Bermutu\r\n"
+  m_Text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
+    fugiat nulla pariatur
 --- !u!222 &404718509
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -4116,7 +4218,7 @@ MonoBehaviour:
     m_Font: {fileID: 12800000, guid: f0c9e3ada6611f24ab8dedd51a55eacd, type: 3}
     m_FontSize: 35
     m_FontStyle: 0
-    m_BestFit: 0
+    m_BestFit: 1
     m_MinSize: 2
     m_MaxSize: 50
     m_Alignment: 4
@@ -4125,7 +4227,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.5
-  m_Text: "Presiden pertama Indonesia adalah Ir. Soekarno\r\n"
+  m_Text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
+    fugiat nulla pariatur
 --- !u!222 &416276696
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -4213,6 +4319,41 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1 &419514534
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 419514535}
+  m_Layer: 5
+  m_Name: posB
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &419514535
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 419514534}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1820308261}
+  m_RootOrder: 5
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 177, y: 73}
+  m_SizeDelta: {x: 312.2, y: 101.899994}
+  m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &430420214
 GameObject:
   m_ObjectHideFlags: 0
@@ -4396,7 +4537,7 @@ MonoBehaviour:
     m_Font: {fileID: 12800000, guid: f0c9e3ada6611f24ab8dedd51a55eacd, type: 3}
     m_FontSize: 35
     m_FontStyle: 0
-    m_BestFit: 0
+    m_BestFit: 1
     m_MinSize: 2
     m_MaxSize: 50
     m_Alignment: 4
@@ -4405,8 +4546,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.5
-  m_Text: "Indonesia disebut sebagai negara maritim karena sebagian besar wilayahnya
-    perairan\r\n"
+  m_Text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
+    fugiat nulla pariatur
 --- !u!222 &432920659
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -4479,7 +4623,7 @@ RectTransform:
   - {fileID: 717395459}
   - {fileID: 750705878}
   m_Father: {fileID: 250942657}
-  m_RootOrder: 11
+  m_RootOrder: 10
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
@@ -4676,7 +4820,7 @@ MonoBehaviour:
     m_Font: {fileID: 12800000, guid: f0c9e3ada6611f24ab8dedd51a55eacd, type: 3}
     m_FontSize: 35
     m_FontStyle: 0
-    m_BestFit: 0
+    m_BestFit: 1
     m_MinSize: 2
     m_MaxSize: 50
     m_Alignment: 4
@@ -4685,7 +4829,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.5
-  m_Text: "Pembukaan UUD 1945 terdiri dari 4 alinea\r\n"
+  m_Text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
+    fugiat nulla pariatur
 --- !u!222 &444832271
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -4753,7 +4901,7 @@ MonoBehaviour:
     m_Font: {fileID: 12800000, guid: f0c9e3ada6611f24ab8dedd51a55eacd, type: 3}
     m_FontSize: 35
     m_FontStyle: 0
-    m_BestFit: 0
+    m_BestFit: 1
     m_MinSize: 2
     m_MaxSize: 50
     m_Alignment: 4
@@ -4762,7 +4910,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.5
-  m_Text: "Lambang sila ke 4 adalah Banteng\r\n"
+  m_Text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
+    fugiat nulla pariatur
 --- !u!222 &456634643
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -4830,7 +4982,7 @@ MonoBehaviour:
     m_Font: {fileID: 12800000, guid: f0c9e3ada6611f24ab8dedd51a55eacd, type: 3}
     m_FontSize: 35
     m_FontStyle: 0
-    m_BestFit: 0
+    m_BestFit: 1
     m_MinSize: 2
     m_MaxSize: 50
     m_Alignment: 4
@@ -4839,7 +4991,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.5
-  m_Text: "\"KeTuhanan Yang Maha Esa\" merupakan bunyi sila ke 1\r\n"
+  m_Text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
+    fugiat nulla pariatur
 --- !u!222 &471583135
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -5162,7 +5318,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4273560483176816, guid: a79eaff92ee37e2428cd6b177978f404, type: 3}
       propertyPath: m_RootOrder
-      value: 13
+      value: 12
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a79eaff92ee37e2428cd6b177978f404, type: 3}
@@ -5225,7 +5381,7 @@ MonoBehaviour:
     m_Font: {fileID: 12800000, guid: f0c9e3ada6611f24ab8dedd51a55eacd, type: 3}
     m_FontSize: 35
     m_FontStyle: 0
-    m_BestFit: 0
+    m_BestFit: 1
     m_MinSize: 2
     m_MaxSize: 50
     m_Alignment: 4
@@ -5234,7 +5390,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.5
-  m_Text: "Pendidikan bermutu sangat penting agar rakyat tidak mudah dibohongi\r\n\n"
+  m_Text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
+    fugiat nulla pariatur
 --- !u!222 &504083591
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -5460,7 +5620,7 @@ Transform:
   - {fileID: 1283541229}
   - {fileID: 1787464179}
   m_Father: {fileID: 0}
-  m_RootOrder: 10
+  m_RootOrder: 11
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &537065116
 GameObject:
@@ -5521,7 +5681,7 @@ MonoBehaviour:
     m_Font: {fileID: 12800000, guid: f0c9e3ada6611f24ab8dedd51a55eacd, type: 3}
     m_FontSize: 35
     m_FontStyle: 0
-    m_BestFit: 0
+    m_BestFit: 1
     m_MinSize: 2
     m_MaxSize: 50
     m_Alignment: 4
@@ -5530,7 +5690,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.5
-  m_Text: "Awalnya, Joko Widodo merupakan pengusaha di bidang mebel\r\n"
+  m_Text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
+    fugiat nulla pariatur
 --- !u!222 &537065119
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -5822,7 +5986,7 @@ MonoBehaviour:
   m_HandleRect: {fileID: 0}
   m_Direction: 0
   m_MinValue: 0
-  m_MaxValue: 5
+  m_MaxValue: 10
   m_WholeNumbers: 0
   m_Value: 0
   m_OnValueChanged:
@@ -6031,7 +6195,7 @@ MonoBehaviour:
     m_Font: {fileID: 12800000, guid: f0c9e3ada6611f24ab8dedd51a55eacd, type: 3}
     m_FontSize: 35
     m_FontStyle: 0
-    m_BestFit: 0
+    m_BestFit: 1
     m_MinSize: 2
     m_MaxSize: 50
     m_Alignment: 4
@@ -6040,8 +6204,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.5
-  m_Text: "Warisan terpenting dari orang tua kepada anak adalah memberikan Pendidikan
-    Bermutu\r\n"
+  m_Text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
+    fugiat nulla pariatur
 --- !u!222 &579446574
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -6216,7 +6383,7 @@ MonoBehaviour:
     m_Font: {fileID: 12800000, guid: f0c9e3ada6611f24ab8dedd51a55eacd, type: 3}
     m_FontSize: 35
     m_FontStyle: 0
-    m_BestFit: 0
+    m_BestFit: 1
     m_MinSize: 2
     m_MaxSize: 50
     m_Alignment: 4
@@ -6225,8 +6392,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.5
-  m_Text: "Sony Kusumo ketika kuliah dulu, pernah sambil bekerja sebagai Supir Taxi
-    dan Tukang Cuci Mobil\r\n"
+  m_Text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
+    fugiat nulla pariatur
 --- !u!222 &601438206
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -6294,7 +6464,7 @@ MonoBehaviour:
     m_Font: {fileID: 12800000, guid: f0c9e3ada6611f24ab8dedd51a55eacd, type: 3}
     m_FontSize: 35
     m_FontStyle: 0
-    m_BestFit: 0
+    m_BestFit: 1
     m_MinSize: 2
     m_MaxSize: 50
     m_Alignment: 4
@@ -6303,7 +6473,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.5
-  m_Text: "Indonesia disebut juga sebagai negara maritim.\r\n"
+  m_Text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
+    fugiat nulla pariatur
 --- !u!222 &603541181
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -6346,8 +6520,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -0, y: 0.000040054}
-  m_SizeDelta: {x: 231, y: 75.3}
+  m_AnchoredPosition: {x: -3.23, y: 5.03}
+  m_SizeDelta: {x: 260.75, y: 91.83}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &611006876
 MonoBehaviour:
@@ -6370,11 +6544,11 @@ MonoBehaviour:
   m_FontData:
     m_Font: {fileID: 12800000, guid: f0c9e3ada6611f24ab8dedd51a55eacd, type: 3}
     m_FontSize: 50
-    m_FontStyle: 1
-    m_BestFit: 0
+    m_FontStyle: 0
+    m_BestFit: 1
     m_MinSize: 5
     m_MaxSize: 50
-    m_Alignment: 1
+    m_Alignment: 4
     m_AlignByGeometry: 0
     m_RichText: 1
     m_HorizontalOverflow: 0
@@ -6739,6 +6913,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Rocket: {fileID: 1309752725157982, guid: efa243fc1b275c74887ba45722feaaaa, type: 3}
+  theRocketTimer: {fileID: 292534837}
   High: {fileID: 582586553}
   Low: {fileID: 400227624}
   SpawnerPos: {fileID: 0}
@@ -6752,321 +6927,634 @@ MonoBehaviour:
   TheDestroyer: {fileID: 1539909634}
   TheTime: {fileID: 0}
   Questions:
-  - 'Sony Kusumo adalah Caleg dari Partai? '
-  - 'Sony Kusumo memiliki nomor urut? '
-  - 'Sony Kusumo adalah Caleg dari DAPIL? '
-  - 'Yang merupakan Program Kerja Sony Kusumo adalah? '
-  - 'Yang merupakan Program Kerja Sony Kusumo adalah? '
-  - 'Yang merupakan Program Kerja Sony Kusumo adalah? '
-  - 'Dengan cara apa daya beli masyarakat dapat ditingkatkan? '
-  - 'Dengan cara apa rupiah dapat ditingkatkan? '
-  - 'Warisan apakah yang terpenting dari orang tua kepada anak? '
-  - 'Yayasan Pendidikan yang didirikan oleh Sony Kusumo adalah? '
-  - 'Asosiasi Pengusaha apakah yang pernah ikut didirikan Sony Kusumo? '
-  - 'Siapakah satu-satunya caleg yang berasal dari Tambora? '
-  - 'Sony Kusumo adalah Caleg dari Partai? '
-  - 'Apa yang dilakukan Sony Kusumo setelah kerusuhan 1998?  '
-  - 'Mengapa pendidikan bermutu sangat penting? '
-  - 'Apa tujuan Sony Kusumo terjun kedalam organisasi politik? '
-  - 'Apa yang dibangun Sony Kusumo pada tahun 2003 '
-  - 'Produk yang akan diutamakan dalam visi program kerja Sony Kusumo adalah? '
-  - 'Yang termasuk didalam konsep 4M dari Sony Kusumo adalah? '
-  - 'Yang termasuk didalam konsep 4M dari Sony Kusumo adalah? '
-  - 'Yang termasuk didalam konsep 4M dari Sony Kusumo adalah? '
-  - 'Yang termasuk didalam konsep 4M dari Sony Kusumo adalah? '
-  - 'Komitmen soal gaji yang diterima Sony Kusumo ketika menjadi anggota DPR '
-  - 'Pendidikan Bermutu yang dimaksudkan Sony Kusumo adalah menekankan kepada? '
-  - 'Pendidikan Bermutu yang dimaksudkan Sony Kusumo adalah menekankan kepada? '
-  - 'Pendidikan Bermutu yang dimaksudkan Sony Kusumo adalah menekankan kepada? '
-  - 'Mengapa Sony Kusumo mengingatkan kita agar jangan mau diadu-domba? '
-  - 'Dasar Negara apa yang diperjuangkan oleh Sony Kusumo? '
-  - 'Sony Kusumo merupakan pengusaha di bidang? '
-  - 'Semasa kuliah Sony Kusumo pernah menjalani pekerjaan sebagai? '
-  - 'Apa dasar negara Indonesia? '
-  - 'Apa bentuk negara Indonesia? '
-  - 'Apa sistem pemerintahan Indonesia? '
-  - 'Apa bentuk pemerintahan Indonesia? '
-  - 'Siapakah presiden pertama Indonesia? '
-  - 'Indonesia disebut sebagai negara maritim karena sebagian besar wilayahnya ? '
-  - 'Lambang negara Indonesia adalah? '
-  - 'Apa lambang sila ke 1 pancasila? '
-  - 'Apa lambang sila ke 2 pancasila? '
-  - 'Apa lambang sila ke 3 pancasila? '
-  - 'Apa lambang sila ke 4 pancasila? '
-  - 'Apa lambang sila ke 5 pancasila? '
-  - '"KeTuhanan Yang Maha Esa" merupakan bunyi sila ke ? '
-  - '"Kemanusiaan yang Adil dan Beradab" merupakan bunyi sila ke ? '
-  - '"Persatuan Indonesia" merupakan bunyi sila ke ? '
-  - '"Kerakyatan yang Dipimpin oleh Hikmat Kebijaksanaan dalam Permusyawaratan Perwakilan"
-    merupakan bunyi sila ke ? '
-  - '" Keadilan Sosial Bagi Seluruh Rakyat Indonesia." merupakan bunyi sila ke ? '
-  - 'Apa julukan kehormatan terhadap bendera Merah Putih ? '
-  - 'Lagu  kebangsaan Indonesia adalah ? '
-  - 'Kapankah hari kemerdekaan Indonesia ? '
-  - '1 Juni diperingati sebagai ? '
-  - 'Indonesia adalah Negara yang berlandaskan ? '
-  - 'Ibukota indonesia adalah ? '
-  - 'Bendera merah putih di jahit oleh ? '
-  - 'Pemilihan Umum (pemilu) dilakukan tiap ? '
-  - 'Nama lain Pembukaan UUD 1945 adalah ? '
-  - 'Pembukaan UUD 1945 terdiri dari berapa alinea? '
-  - 'Proklamasi di bacakan pada Jalan Pegangsaan Timur No ? '
-  - 'Pencipta lagu Indonesia Raya adalah ? '
-  - 'Semboyan bangsa indonesia adalah ? '
-  - 'Indonesia disebut juga sebagai negara ? '
-  - 'Indonesia merupakan negara yang di lewati oleh garis ? '
-  - 'Berapakah daerah waktu yang Indonesia miliki? '
-  - 'Negara Indonesia terletak di benua ? '
-  - "Indonesia memiliki sekitar \u2026  kelompok etnis. "
-  - 'Lambang PDI-P berupa gambar ? '
-  - 'Apa warna khas partai PDI-P ? '
-  - 'Siapakah ketua umum dari PDI-P? '
-  - 'Berapakah no urut PDI-P untuk Peserta Pemilu 2019 ? '
-  - Partai Demokrasi Indonesia Perjuangan disingkat menjadi ?
-  - 'Ketua umum partai PDI-P pernah menjadi presiden Indonesia ke ? '
-  - 'Sebelum nama PDI-P, partai ini bernama ? '
-  - 'Kapan nama PDI berubah menjadi PDI-P? '
-  - 'Berapa periode Megawati Soekarnoputri menjadi Ketua Umum PDI-P? '
-  - 'Pada tahun berapa PDI didirikan ? '
-  - 'Ketua umum PDI-P sejak 1999-2020 merupakan anak dari ? '
-  - 'Salah satu tujuan PDI-P adalah berjuang untuk ? '
-  - 'Prinsip dasar dari PDI-P adalah ? '
-  - 'PDI Perjuangan memiliki sikap tegas dalam ?  '
-  - 'Arti warna merah dalam logo PDI-P adalah ? '
-  - 'Jokowi memulai masa kepresidenannya dengan meluncurkan ? '
-  - 'Berapa jumlah lapangan kerja yang dibuka pada era Jokowi ? '
-  - 'Di era Jokowi, pembagian kartu Indonesia pintar mencapai ? '
-  - 'Di era Jokowi,  tol laut sudah dikembangkan mencapai berapa lokasi?  '
-  - 'Di era Jokowi, Indonesia membangun jalan Trans ? '
-  - 'Joko Widodo merupakan presiden RI ke ? '
-  - 'Pada pilpres 2014 Joko Widodo berpasangan dengan ? '
-  - 'Sebelum menjadi cawapres, Joko Widodo merupakan gubernur ? '
-  - 'Joko Widodo berasal dari partai ? '
-  - 'Nama Ibu Negara periode 2015-2019 adalah ? '
-  - 'Sebelum menjadi gubernur DKI Jakarta, Joko Widodo adalah ? '
-  - 'Joko Widodo juga dikenal dengan nama ? '
-  - 'Joko Widodo merupakan lulusan dari ? '
-  - 'Joko Widodo dikenal sebagai pemimpin yang ? '
-  - 'Siapa wakil yang mendampingin Joko Widodo dalam Pilpres 2019? '
-  - 'Untuk mendengarkan aspirasi rakyat, Joko Widodo sering melakukan? '
-  - 'Joko Widodo lahir pada tahun? '
-  - 'Pada tahun berapa Joko Widodo memasuki dunia Politik ? '
-  - 'Awalnya, Joko Widodo merupakan pengusaha di bidang ? '
-  - 'Jokowi berhasil menurunkan tingkat pengangguran 5,7% menjadi ? '
-  - 'Di era jokowi, Pemerintahan Indonesia berhasil memiliki saham freeport sebesar? '
-  - 'Di era Jokowi, Indonesia memiliki berapa bandara baru? '
-  - 'Pada pemilu 2019, Jokowi-Ma''aruf mendapatkan nomor urut ? '
-  - 'Di era Jokowi, Indonesia berhasil membangun transportasi ? '
+  - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+    incididunt ut labore?
+  - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+    incididunt ut labore?
+  - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+    incididunt ut labore?
+  - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+    incididunt ut labore?
+  - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+    incididunt ut labore?
+  - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+    incididunt ut labore?
+  - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+    incididunt ut labore?
+  - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+    incididunt ut labore?
+  - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+    incididunt ut labore?
+  - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+    incididunt ut labore?
+  - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+    incididunt ut labore?
+  - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+    incididunt ut labore?
+  - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+    incididunt ut labore?
+  - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+    incididunt ut labore?
+  - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+    incididunt ut labore?
+  - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+    incididunt ut labore?
+  - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+    incididunt ut labore?
+  - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+    incididunt ut labore?
+  - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+    incididunt ut labore?
+  - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+    incididunt ut labore?
+  - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+    incididunt ut labore?
+  - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+    incididunt ut labore?
+  - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+    incididunt ut labore?
+  - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+    incididunt ut labore?
+  - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+    incididunt ut labore?
+  - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+    incididunt ut labore?
+  - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+    incididunt ut labore?
+  - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+    incididunt ut labore?
+  - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+    incididunt ut labore?
+  - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+    incididunt ut labore?
+  - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+    incididunt ut labore?
+  - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+    incididunt ut labore?
+  - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+    incididunt ut labore?
+  - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+    incididunt ut labore?
+  - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+    incididunt ut labore?
+  - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+    incididunt ut labore?
+  - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+    incididunt ut labore?
+  - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+    incididunt ut labore?
+  - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+    incididunt ut labore?
+  - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+    incididunt ut labore?
+  - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+    incididunt ut labore?
+  - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+    incididunt ut labore?
+  - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+    incididunt ut labore?
+  - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+    incididunt ut labore?
+  - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+    incididunt ut labore?
+  - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+    incididunt ut labore?
+  - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+    incididunt ut labore?
+  - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+    incididunt ut labore?
+  - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+    incididunt ut labore?
+  - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+    incididunt ut labore?
+  - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+    incididunt ut labore?
+  - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+    incididunt ut labore?
+  - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+    incididunt ut labore?
+  - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+    incididunt ut labore?
+  - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+    incididunt ut labore?
+  - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+    incididunt ut labore?
+  - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+    incididunt ut labore?
+  - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+    incididunt ut labore?
+  - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+    incididunt ut labore?
+  - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+    incididunt ut labore?
+  - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+    incididunt ut labore?
+  - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+    incididunt ut labore?
+  - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+    incididunt ut labore?
+  - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+    incididunt ut labore?
+  - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+    incididunt ut labore?
+  - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+    incididunt ut labore?
+  - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+    incididunt ut labore?
+  - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+    incididunt ut labore?
+  - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+    incididunt ut labore?
+  - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+    incididunt ut labore?
+  - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+    incididunt ut labore?
+  - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+    incididunt ut labore?
+  - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+    incididunt ut labore?
+  - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+    incididunt ut labore?
+  - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+    incididunt ut labore?
+  - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+    incididunt ut labore?
+  - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+    incididunt ut labore?
+  - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+    incididunt ut labore?
+  - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+    incididunt ut labore?
+  - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+    incididunt ut labore?
+  - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+    incididunt ut labore?
+  - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+    incididunt ut labore?
+  - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+    incididunt ut labore?
+  - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+    incididunt ut labore?
+  - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+    incididunt ut labore?
+  - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+    incididunt ut labore?
+  - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+    incididunt ut labore?
+  - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+    incididunt ut labore?
+  - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+    incididunt ut labore?
+  - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+    incididunt ut labore?
+  - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+    incididunt ut labore?
+  - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+    incididunt ut labore?
+  - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+    incididunt ut labore?
+  - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+    incididunt ut labore?
+  - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+    incididunt ut labore?
+  - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+    incididunt ut labore?
+  - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+    incididunt ut labore?
+  - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+    incididunt ut labore?
+  - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+    incididunt ut labore?
+  - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+    incididunt ut labore?
+  - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+    incididunt ut labore?
+  - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+    incididunt ut labore?
+  - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+    incididunt ut labore?
+  - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+    incididunt ut labore?
   RightAnswer:
-  - 'PDI Perjuangan '
-  - 7
-  - 'DKI 3 '
-  - 'Pendidikan Bermutu '
-  - 'Trade Surplus '
-  - 'Rakyat Makmur '
-  - 'Trade Surplus '
-  - 'Trade Surplus '
-  - 'Pendidikan Bermutu '
-  - Permai
-  - 'APKOPMINDO '
-  - 'Sony Kusumo '
-  - 'PDI Perjuangan '
-  - 'Motivasi untuk Bangkit '
-  - 'Rakyat tidak mudah dibohongi '
-  - 'Menyalurkan Aspirasi Rakyat '
-  - 'Rumah Jompo '
-  - 'Produk Dalam Negeri '
-  - 'Mandiri Diri Sendiri '
-  - 'Mandiri Keluarga '
-  - 'Mandiri Usaha '
-  - 'Mandiri Ekonomi Negara '
-  - Menyumbang Seluruh Gaji
-  - 'Kreatifitas '
-  - 'Kemampuan Menganalisis '
-  - 'Memahami Sebab-Akibat '
-  - 'Mereka tidak mau kita mandiri '
-  - 'Pancasila '
-  - 'IT dan Property '
-  - 'Supir Taxi '
-  - 'Pancasila '
-  - 'Kesatuan '
-  - 'Presidential '
-  - 'Republik '
-  - 'Soekarno '
-  - 'Perairan '
-  - 'Garudah Pancasila '
-  - 'Bintang '
-  - 'Rantai '
-  - 'Pohon Beringin '
-  - 'Banteng '
-  - 'Padi dan Kapas '
-  - '1 (satu) '
-  - '2 (dua) '
-  - '3 (tiga) '
-  - '4 (empat) '
-  - '5 (lima) '
-  - 'Sang Saka Merah Putih '
-  - 'Indonesia Raya '
-  - '17 Agustus 1945 '
-  - 'Hari Pancasila '
-  - 'Hukum '
-  - 'Jakarta '
-  - 'Ibu Fatmawati '
-  - '5 tahun sekali '
-  - 'Piagam Jakarta '
-  - '4 Alinea '
-  - '56 '
-  - 'W. R Supratman '
-  - 'Bhinneka Tunggal Ika '
-  - 'Maritim '
-  - khatulistiwa
-  - 3
-  - 'Asia '
-  - '300 '
-  - 'Banteng '
-  - 'Merah '
-  - 'Megawati Soekarnoputri '
-  - '3 (tiga) '
-  - PDIP
-  - '5 (lima) '
-  - 'PDI '
-  - '1999 '
-  - '4 '
-  - '1973 '
-  - 'Ir. Soekarno '
-  - 'Kesejahteraan Rakyat '
-  - 'Pancasila '
-  - 'Pemberantasan korupsi. '
-  - 'Berani '
-  - 'Kartu Indonesia Sehat '
-  - '3,4 juta '
-  - '20 juta '
-  - '477 '
-  - 'Papua '
-  - '7 (tujuh) '
-  - 'Jusuf Kala '
-  - 'DKI Jakarta '
-  - 'PDI-P '
-  - 'Iriana Joko Widodo. '
-  - 'Walikota Solo '
-  - 'Jokowi '
-  - 'Universitas Gajah Mada '
-  - 'Muda dan Bersih '
-  - 'Prof Dr KH Ma''ruf '
-  - 'Blusukan '
-  - '1961 '
-  - '2005 '
-  - 'Mebel '
-  - '5.13% '
-  - '51% '
-  - '11 '
-  - 1
-  - 'LRT '
+  - True
+  - True
+  - True
+  - True
+  - True
+  - True
+  - True
+  - True
+  - True
+  - True
+  - True
+  - True
+  - True
+  - True
+  - True
+  - True
+  - True
+  - True
+  - True
+  - True
+  - True
+  - True
+  - True
+  - True
+  - True
+  - True
+  - True
+  - True
+  - True
+  - True
+  - True
+  - True
+  - True
+  - True
+  - True
+  - True
+  - True
+  - True
+  - True
+  - True
+  - True
+  - True
+  - True
+  - True
+  - True
+  - True
+  - True
+  - True
+  - True
+  - True
+  - True
+  - True
+  - True
+  - True
+  - True
+  - True
+  - True
+  - True
+  - True
+  - True
+  - True
+  - True
+  - True
+  - True
+  - True
+  - True
+  - True
+  - True
+  - True
+  - True
+  - True
+  - True
+  - True
+  - True
+  - True
+  - True
+  - True
+  - True
+  - True
+  - True
+  - True
+  - True
+  - True
+  - True
+  - True
+  - True
+  - True
+  - True
+  - True
+  - True
+  - True
+  - True
+  - True
+  - True
+  - True
+  - True
+  - True
+  - True
+  - True
+  - True
+  - True
+  - True
+  - True
+  - True
   WrongAnswer:
-  - 'Golkar '
-  - 1
-  - 'DKI 1 '
-  - 'Transportasi '
-  - 'Lingkungan Hidup '
-  - 'Rakyat Bersatu '
-  - 'Perbanyak Import '
-  - 'Sering Keluar Negeri '
-  - 'Harta Kekayaan '
-  - 'Damai '
-  - 'APJII '
-  - 'Budi '
-  - 'Golkar '
-  - 'Tidak ada '
-  - 'Rakyat menjadi malas '
-  - 'Menjadi terkenal '
-  - 'Gedung Bertingkat '
-  - 'Produk Luar Negeri '
-  - 'Melarikan diri '
-  - 'Malas '
-  - 'Mencoba-coba '
-  - 'Melamun '
-  - Menyumbang Sedikit Gaji
-  - 'Menghafal '
-  - 'Kemampuan Meniru '
-  - 'Mencari pembelaan diri '
-  - 'Mereka senang kita perang '
-  - 'Dasasila '
-  - 'Hukum '
-  - 'Menganggur '
-  - 'UUD 1945 '
-  - 'Gotong royong '
-  - 'Parlementer '
-  - 'Serikat '
-  - 'Soeharto '
-  - 'Daratan '
-  - 'Merah putih '
-  - 'Benteng '
-  - 'Padi dan Kapas '
-  - 'Pohon cemara '
-  - 'Kerbau '
-  - 'Padi '
-  - '3 (tiga) '
-  - '4 (empat) '
-  - '1 (satu) '
-  - '5 (lima) '
-  - '2 (dua) '
-  - 'Sang Merah Putih '
-  - 'Indonesia Pusaka '
-  - '18 Agustus 1945 '
-  - 'Hari UUD '
-  - 'Peraturan '
-  - 'Surabaya '
-  - 'Ibu Fatahillah '
-  - '3 tahun sekali '
-  - 'Pancasila '
-  - '3 Alinea '
-  - '65 '
-  - 'Latief Hendraningrat '
-  - 'Sumpah Pemuda '
-  - 'Daratan '
-  - Dunia
-  - 2
-  - 'Australia '
-  - '50 '
-  - 'Kerbau '
-  - 'Kuning '
-  - 'Puan Maharani '
-  - '1 (satu) '
-  - PPID
-  - '6 (enam) '
-  - 'PDD '
-  - '1973 '
-  - '1 '
-  - '1999 '
-  - 'Drs Moh. Hatta '
-  - 'Menjadi terkenal '
-  - 'Piagam Jakarta '
-  - 'Menghadapi Rakyat '
-  - 'Marah '
-  - 'E-KTP '
-  - '1 juta '
-  - '500 ribu '
-  - '200 '
-  - 'Jakarta '
-  - '8 (delapan) '
-  - 'Basuki Tjahaja Purnama '
-  - 'Solo '
-  - 'Demokrat '
-  - 'Fatmawati '
-  - 'Pengusaha '
-  - 'Joko '
-  - 'Universitas Indonesia '
-  - 'Baik '
-  - 'Jusuf Kala '
-  - 'Rapat '
-  - '1971 '
-  - '2010 '
-  - 'Makanan '
-  - '6.2% '
-  - '10% '
-  - '1 '
-  - 2
-  - 'Bus kota '
+  - False
+  - False
+  - False
+  - False
+  - False
+  - False
+  - False
+  - False
+  - False
+  - False
+  - False
+  - False
+  - False
+  - False
+  - False
+  - False
+  - False
+  - False
+  - False
+  - False
+  - False
+  - False
+  - False
+  - False
+  - False
+  - False
+  - False
+  - False
+  - False
+  - False
+  - False
+  - False
+  - False
+  - False
+  - False
+  - False
+  - False
+  - False
+  - False
+  - False
+  - False
+  - False
+  - False
+  - False
+  - False
+  - False
+  - False
+  - False
+  - False
+  - False
+  - False
+  - False
+  - False
+  - False
+  - False
+  - False
+  - False
+  - False
+  - False
+  - False
+  - False
+  - False
+  - False
+  - False
+  - False
+  - False
+  - False
+  - False
+  - False
+  - False
+  - False
+  - False
+  - False
+  - False
+  - False
+  - False
+  - False
+  - False
+  - False
+  - False
+  - False
+  - False
+  - False
+  - False
+  - False
+  - False
+  - False
+  - False
+  - False
+  - False
+  - False
+  - False
+  - False
+  - False
+  - False
+  - False
+  - False
+  - False
+  - False
+  - False
+  - False
+  - False
+  - False
+  - False
+  WrongAnswer2:
+  - False 2
+  - False 2
+  - False 2
+  - False 2
+  - False 2
+  - False 2
+  - False 2
+  - False 2
+  - False 2
+  - False 2
+  - False 2
+  - False 2
+  - False 2
+  - False 2
+  - False 2
+  - False 2
+  - False 2
+  - False 2
+  - False 2
+  - False 2
+  - False 2
+  - False 2
+  - False 2
+  - False 2
+  - False 2
+  - False 2
+  - False 2
+  - False 2
+  - False 2
+  - False 2
+  - False 2
+  - False 2
+  - False 2
+  - False 2
+  - False 2
+  - False 2
+  - False 2
+  - False 2
+  - False 2
+  - False 2
+  - False 2
+  - False 2
+  - False 2
+  - False 2
+  - False 2
+  - False 2
+  - False 2
+  - False 2
+  - False 2
+  - False 2
+  - False 2
+  - False 2
+  - False 2
+  - False 2
+  - False 2
+  - False 2
+  - False 2
+  - False 2
+  - False 2
+  - False 2
+  - False 2
+  - False 2
+  - False 2
+  - False 2
+  - False 2
+  - False 2
+  - False 2
+  - False 2
+  - False 2
+  - False 2
+  - False 2
+  - False 2
+  - False 2
+  - False 2
+  - False 2
+  - False 2
+  - False 2
+  - False 2
+  - False 2
+  - False 2
+  - False 2
+  - False 2
+  - False 2
+  - False 2
+  - False 2
+  - False 2
+  - False 2
+  - False 2
+  - False 2
+  - False 2
+  - False 2
+  - False 2
+  - False 2
+  - False 2
+  - False 2
+  - False 2
+  - False 2
+  - False 2
+  - False 2
+  - False 2
+  - False 2
+  - False 2
+  - False 2
+  - False 2
+  WrongAnswer3:
+  - False 3
+  - False 3
+  - False 3
+  - False 3
+  - False 3
+  - False 3
+  - False 3
+  - False 3
+  - False 3
+  - False 3
+  - False 3
+  - False 3
+  - False 3
+  - False 3
+  - False 3
+  - False 3
+  - False 3
+  - False 3
+  - False 3
+  - False 3
+  - False 3
+  - False 3
+  - False 3
+  - False 3
+  - False 3
+  - False 3
+  - False 3
+  - False 3
+  - False 3
+  - False 3
+  - False 3
+  - False 3
+  - False 3
+  - False 3
+  - False 3
+  - False 3
+  - False 3
+  - False 3
+  - False 3
+  - False 3
+  - False 3
+  - False 3
+  - False 3
+  - False 3
+  - False 3
+  - False 3
+  - False 3
+  - False 3
+  - False 3
+  - False 3
+  - False 3
+  - False 3
+  - False 3
+  - False 3
+  - False 3
+  - False 3
+  - False 3
+  - False 3
+  - False 3
+  - False 3
+  - False 3
+  - False 3
+  - False 3
+  - False 3
+  - False 3
+  - False 3
+  - False 3
+  - False 3
+  - False 3
+  - False 3
+  - False 3
+  - False 3
+  - False 3
+  - False 3
+  - False 3
+  - False 3
+  - False 3
+  - False 3
+  - False 3
+  - False 3
+  - False 3
+  - False 3
+  - False 3
+  - False 3
+  - False 3
+  - False 3
+  - False 3
+  - False 3
+  - False 3
+  - False 3
+  - False 3
+  - False 3
+  - False 3
+  - False 3
+  - False 3
+  - False 3
+  - False 3
+  - False 3
+  - False 3
+  - False 3
+  - False 3
+  - False 3
+  - False 3
+  - False 3
   Box: {fileID: 663932851}
   TheQuestion: {fileID: 79111918}
   TheRightAnswer: {fileID: 1164175454}
@@ -7090,6 +7578,18 @@ MonoBehaviour:
   textBtn3: {fileID: 851361947}
   textBtn4: {fileID: 611006876}
   lastQuestion: 0
+  questionButtons:
+  - {fileID: 2028899829}
+  - {fileID: 328599653}
+  - {fileID: 832373402}
+  - {fileID: 1741468095}
+  questionBtnPos:
+  - {fileID: 1713221185}
+  - {fileID: 419514535}
+  - {fileID: 1685465427}
+  - {fileID: 1796190964}
+  filledPos: 00000000000000000000000000000000
+  TheScore: {fileID: 131012526}
 --- !u!4 &711300572
 Transform:
   m_ObjectHideFlags: 0
@@ -7105,7 +7605,7 @@ Transform:
   - {fileID: 582586554}
   - {fileID: 400227625}
   m_Father: {fileID: 0}
-  m_RootOrder: 14
+  m_RootOrder: 15
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &714157066
 GameObject:
@@ -7344,8 +7844,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -0, y: 0.000040054}
-  m_SizeDelta: {x: 231, y: 75.3}
+  m_AnchoredPosition: {x: -3.23, y: 5.03}
+  m_SizeDelta: {x: 260.75, y: 91.83}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &727466065
 MonoBehaviour:
@@ -7368,11 +7868,11 @@ MonoBehaviour:
   m_FontData:
     m_Font: {fileID: 12800000, guid: f0c9e3ada6611f24ab8dedd51a55eacd, type: 3}
     m_FontSize: 50
-    m_FontStyle: 1
-    m_BestFit: 0
+    m_FontStyle: 0
+    m_BestFit: 1
     m_MinSize: 5
     m_MaxSize: 50
-    m_Alignment: 1
+    m_Alignment: 4
     m_AlignByGeometry: 0
     m_RichText: 1
     m_HorizontalOverflow: 0
@@ -7446,7 +7946,7 @@ MonoBehaviour:
     m_Font: {fileID: 12800000, guid: f0c9e3ada6611f24ab8dedd51a55eacd, type: 3}
     m_FontSize: 35
     m_FontStyle: 0
-    m_BestFit: 0
+    m_BestFit: 1
     m_MinSize: 2
     m_MaxSize: 50
     m_Alignment: 4
@@ -7455,7 +7955,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.5
-  m_Text: "Joko Widodo memasuki dunia Politik pada tahun 2005\r\n"
+  m_Text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
+    fugiat nulla pariatur
 --- !u!222 &736014917
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -7619,7 +8123,7 @@ MonoBehaviour:
     m_Font: {fileID: 12800000, guid: f0c9e3ada6611f24ab8dedd51a55eacd, type: 3}
     m_FontSize: 35
     m_FontStyle: 0
-    m_BestFit: 0
+    m_BestFit: 1
     m_MinSize: 2
     m_MaxSize: 50
     m_Alignment: 4
@@ -7628,8 +8132,9 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.5
-  m_Text: "Sony Kusumo adalah Caleg DPR RI dari Partai PDI Perjuangan dengan nomor
-    7\r\n"
+  m_Text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. '
 --- !u!222 &744352975
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -8164,7 +8669,7 @@ MonoBehaviour:
     m_Font: {fileID: 12800000, guid: f0c9e3ada6611f24ab8dedd51a55eacd, type: 3}
     m_FontSize: 35
     m_FontStyle: 0
-    m_BestFit: 0
+    m_BestFit: 1
     m_MinSize: 2
     m_MaxSize: 50
     m_Alignment: 4
@@ -8173,7 +8678,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.5
-  m_Text: "Prinsip dasar dari PDI-P adalah ideologi Pancasila.\r\n"
+  m_Text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
+    fugiat nulla pariatur
 --- !u!222 &762971122
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -8273,7 +8782,7 @@ MonoBehaviour:
     m_Font: {fileID: 12800000, guid: f0c9e3ada6611f24ab8dedd51a55eacd, type: 3}
     m_FontSize: 35
     m_FontStyle: 0
-    m_BestFit: 0
+    m_BestFit: 1
     m_MinSize: 2
     m_MaxSize: 50
     m_Alignment: 4
@@ -8282,7 +8791,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.5
-  m_Text: "Sebelum menjadi gubernur DKI Jakarta, Joko Widodo adalah walikota Solo.\r\n"
+  m_Text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
+    fugiat nulla pariatur
 --- !u!222 &771776905
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -8478,7 +8991,7 @@ MonoBehaviour:
     m_Font: {fileID: 12800000, guid: f0c9e3ada6611f24ab8dedd51a55eacd, type: 3}
     m_FontSize: 35
     m_FontStyle: 0
-    m_BestFit: 0
+    m_BestFit: 1
     m_MinSize: 2
     m_MaxSize: 50
     m_Alignment: 4
@@ -8487,8 +9000,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.5
-  m_Text: "Sony Kusumo adalah salah satu Pendiri Asosiasi Pengusaha Komputer Indonesia
-    (APKOMINDO)\r\n"
+  m_Text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
+    fugiat nulla pariatur
 --- !u!222 &778689582
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -8641,7 +9157,7 @@ MonoBehaviour:
     m_Font: {fileID: 12800000, guid: f0c9e3ada6611f24ab8dedd51a55eacd, type: 3}
     m_FontSize: 35
     m_FontStyle: 0
-    m_BestFit: 0
+    m_BestFit: 1
     m_MinSize: 2
     m_MaxSize: 50
     m_Alignment: 4
@@ -8650,8 +9166,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.5
-  m_Text: "Sony Kusumo berkomitmen untuk menyumbangkan seluruh gajinya sebagai anggota
-    DPR\r\n"
+  m_Text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
+    fugiat nulla pariatur
 --- !u!222 &803740360
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -9002,6 +9521,28 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+      - m_Target: {fileID: 1820308260}
+        m_MethodName: SetActive
+        m_Mode: 6
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 1278930833}
+        m_MethodName: Play
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &832373404
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -9096,7 +9637,7 @@ MonoBehaviour:
     m_Font: {fileID: 12800000, guid: f0c9e3ada6611f24ab8dedd51a55eacd, type: 3}
     m_FontSize: 35
     m_FontStyle: 0
-    m_BestFit: 0
+    m_BestFit: 1
     m_MinSize: 2
     m_MaxSize: 50
     m_Alignment: 4
@@ -9105,7 +9646,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.5
-  m_Text: "Caleg DPR RI dari Tambora hanya satu yaitu Sony Kusumo\r\n"
+  m_Text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
+    fugiat nulla pariatur
 --- !u!222 &834426896
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -9239,8 +9784,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -0, y: 0.000040054}
-  m_SizeDelta: {x: 231, y: 75.3}
+  m_AnchoredPosition: {x: -3.23, y: 5.03}
+  m_SizeDelta: {x: 260.75, y: 91.83}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &851361947
 MonoBehaviour:
@@ -9263,11 +9808,11 @@ MonoBehaviour:
   m_FontData:
     m_Font: {fileID: 12800000, guid: f0c9e3ada6611f24ab8dedd51a55eacd, type: 3}
     m_FontSize: 50
-    m_FontStyle: 1
-    m_BestFit: 0
+    m_FontStyle: 0
+    m_BestFit: 1
     m_MinSize: 5
     m_MaxSize: 50
-    m_Alignment: 1
+    m_Alignment: 4
     m_AlignByGeometry: 0
     m_RichText: 1
     m_HorizontalOverflow: 0
@@ -9468,7 +10013,7 @@ MonoBehaviour:
     m_Font: {fileID: 12800000, guid: f0c9e3ada6611f24ab8dedd51a55eacd, type: 3}
     m_FontSize: 35
     m_FontStyle: 0
-    m_BestFit: 0
+    m_BestFit: 1
     m_MinSize: 2
     m_MaxSize: 50
     m_Alignment: 4
@@ -9477,7 +10022,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.5
-  m_Text: "Arti warna merah dalam logo PDI-P adalah berani\r\n"
+  m_Text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
+    fugiat nulla pariatur
 --- !u!222 &861546956
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -9545,7 +10094,7 @@ MonoBehaviour:
     m_Font: {fileID: 12800000, guid: f0c9e3ada6611f24ab8dedd51a55eacd, type: 3}
     m_FontSize: 35
     m_FontStyle: 0
-    m_BestFit: 0
+    m_BestFit: 1
     m_MinSize: 2
     m_MaxSize: 50
     m_Alignment: 4
@@ -9554,7 +10103,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.5
-  m_Text: "Joko Widodo dikenal sebagai pemimpin yang muda dan bersih.\r\n"
+  m_Text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
+    fugiat nulla pariatur
 --- !u!222 &862494047
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -9622,7 +10175,7 @@ MonoBehaviour:
     m_Font: {fileID: 12800000, guid: f0c9e3ada6611f24ab8dedd51a55eacd, type: 3}
     m_FontSize: 35
     m_FontStyle: 0
-    m_BestFit: 0
+    m_BestFit: 1
     m_MinSize: 2
     m_MaxSize: 50
     m_Alignment: 4
@@ -9631,8 +10184,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.5
-  m_Text: "\"Kerakyatan yang Dipimpin oleh Hikmat Kebijaksanaan dalam Permusyawaratan
-    Perwakilan\" merupakan bunyi sila ke 4\r\n"
+  m_Text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
+    fugiat nulla pariatur
 --- !u!222 &886658992
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -9941,7 +10497,7 @@ RectTransform:
   m_LocalScale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
   m_Children: []
   m_Father: {fileID: 250942657}
-  m_RootOrder: 3
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 1, y: 1}
   m_AnchorMax: {x: 1, y: 1}
@@ -10007,7 +10563,7 @@ MonoBehaviour:
     m_Font: {fileID: 12800000, guid: f0c9e3ada6611f24ab8dedd51a55eacd, type: 3}
     m_FontSize: 35
     m_FontStyle: 0
-    m_BestFit: 0
+    m_BestFit: 1
     m_MinSize: 2
     m_MaxSize: 50
     m_Alignment: 4
@@ -10016,7 +10572,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.5
-  m_Text: "Pemilihan Umum (pemilu) dilakukan tiap 5 tahun sekali\r\n"
+  m_Text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
+    fugiat nulla pariatur
 --- !u!222 &923494347
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -10120,7 +10680,7 @@ MonoBehaviour:
     m_Font: {fileID: 12800000, guid: f0c9e3ada6611f24ab8dedd51a55eacd, type: 3}
     m_FontSize: 35
     m_FontStyle: 0
-    m_BestFit: 0
+    m_BestFit: 1
     m_MinSize: 2
     m_MaxSize: 50
     m_Alignment: 4
@@ -10129,7 +10689,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.5
-  m_Text: "Ketua umum PDI-P sejak 1999-2020 merupakan anak dari Ir. Soekarno\r\n"
+  m_Text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
+    fugiat nulla pariatur
 --- !u!222 &929051583
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -10227,7 +10791,7 @@ MonoBehaviour:
     m_Font: {fileID: 12800000, guid: f0c9e3ada6611f24ab8dedd51a55eacd, type: 3}
     m_FontSize: 35
     m_FontStyle: 0
-    m_BestFit: 0
+    m_BestFit: 1
     m_MinSize: 2
     m_MaxSize: 50
     m_Alignment: 4
@@ -10236,8 +10800,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.5
-  m_Text: "Salah satu visi Sony Kusumo adalah mengatur regulasi yang mengutamakan
-    produk dalam negeri\r\n"
+  m_Text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
+    fugiat nulla pariatur
 --- !u!222 &945661991
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -10296,7 +10863,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 12
+  m_RootOrder: 14
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &955523996
 GameObject:
@@ -10315,7 +10882,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &955523997
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -10390,7 +10957,7 @@ RectTransform:
   - {fileID: 572849475}
   - {fileID: 926757305}
   m_Father: {fileID: 250942657}
-  m_RootOrder: 4
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0.8644063}
   m_AnchorMax: {x: 0.41500002, y: 1}
@@ -10456,7 +11023,7 @@ MonoBehaviour:
     m_Font: {fileID: 12800000, guid: f0c9e3ada6611f24ab8dedd51a55eacd, type: 3}
     m_FontSize: 35
     m_FontStyle: 0
-    m_BestFit: 0
+    m_BestFit: 1
     m_MinSize: 2
     m_MaxSize: 50
     m_Alignment: 4
@@ -10465,7 +11032,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.5
-  m_Text: "Salah satu Program Kerja Sony Kusumo adalah Rakyat Makmur\r"
+  m_Text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
+    fugiat nulla pariatur
 --- !u!222 &961599659
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -10533,7 +11104,7 @@ MonoBehaviour:
     m_Font: {fileID: 12800000, guid: f0c9e3ada6611f24ab8dedd51a55eacd, type: 3}
     m_FontSize: 35
     m_FontStyle: 0
-    m_BestFit: 0
+    m_BestFit: 1
     m_MinSize: 2
     m_MaxSize: 50
     m_Alignment: 4
@@ -10542,7 +11113,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.5
-  m_Text: "Sony Kusumo adalah Caleg DPR RI untuk Daerah Pilih (DAPIL) DKI 3\r\n\n"
+  m_Text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
+    fugiat nulla pariatur
 --- !u!222 &961600370
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -10610,7 +11185,7 @@ MonoBehaviour:
     m_Font: {fileID: 12800000, guid: f0c9e3ada6611f24ab8dedd51a55eacd, type: 3}
     m_FontSize: 35
     m_FontStyle: 0
-    m_BestFit: 0
+    m_BestFit: 1
     m_MinSize: 2
     m_MaxSize: 50
     m_Alignment: 4
@@ -10619,7 +11194,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.5
-  m_Text: "Lambang sila ke 2 adalah Rantai\r\n"
+  m_Text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
+    fugiat nulla pariatur
 --- !u!222 &969349255
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -10710,6 +11289,17 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 747426891}
         m_MethodName: CloseInfo
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 2077345737}
+        m_MethodName: Play
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -10813,7 +11403,7 @@ MonoBehaviour:
     m_Font: {fileID: 12800000, guid: f0c9e3ada6611f24ab8dedd51a55eacd, type: 3}
     m_FontSize: 35
     m_FontStyle: 0
-    m_BestFit: 0
+    m_BestFit: 1
     m_MinSize: 2
     m_MaxSize: 50
     m_Alignment: 4
@@ -10822,8 +11412,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.5
-  m_Text: "Tujuan Sony Kusumo terjun dalam organisasi politik agar dapat menyalurkan
-    aspirasi rakyat\r\n"
+  m_Text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
+    fugiat nulla pariatur
 --- !u!222 &979092420
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -10891,7 +11484,7 @@ MonoBehaviour:
     m_Font: {fileID: 12800000, guid: f0c9e3ada6611f24ab8dedd51a55eacd, type: 3}
     m_FontSize: 35
     m_FontStyle: 0
-    m_BestFit: 0
+    m_BestFit: 1
     m_MinSize: 2
     m_MaxSize: 50
     m_Alignment: 4
@@ -10900,7 +11493,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.5
-  m_Text: "Jokowi berhasil menurunkan tingkat pengangguran 5,7% menjadi 5,13%.\r\n"
+  m_Text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
+    fugiat nulla pariatur
 --- !u!222 &984992509
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -11052,7 +11649,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 8
+  m_RootOrder: 9
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1002058365
 BoxCollider2D:
@@ -11184,7 +11781,7 @@ Transform:
   m_Children:
   - {fileID: 1077971941}
   m_Father: {fileID: 0}
-  m_RootOrder: 15
+  m_RootOrder: 16
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1022663177
 GameObject:
@@ -11245,7 +11842,7 @@ MonoBehaviour:
     m_Font: {fileID: 12800000, guid: f0c9e3ada6611f24ab8dedd51a55eacd, type: 3}
     m_FontSize: 35
     m_FontStyle: 0
-    m_BestFit: 0
+    m_BestFit: 1
     m_MinSize: 2
     m_MaxSize: 50
     m_Alignment: 4
@@ -11254,7 +11851,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.5
-  m_Text: "Megawati Soekarnoputri menjadi Ketua Umum PDI-P selama 4 periode\r\n"
+  m_Text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
+    fugiat nulla pariatur
 --- !u!222 &1022663180
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -11354,7 +11955,7 @@ MonoBehaviour:
     m_Font: {fileID: 12800000, guid: f0c9e3ada6611f24ab8dedd51a55eacd, type: 3}
     m_FontSize: 35
     m_FontStyle: 0
-    m_BestFit: 0
+    m_BestFit: 1
     m_MinSize: 2
     m_MaxSize: 50
     m_Alignment: 4
@@ -11363,7 +11964,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.5
-  m_Text: "Ketua Umum partai PDI-P adalah Megawati Soekarnoputri\r\n"
+  m_Text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
+    fugiat nulla pariatur
 --- !u!222 &1060570442
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -11588,7 +12193,7 @@ MonoBehaviour:
     m_Font: {fileID: 12800000, guid: f0c9e3ada6611f24ab8dedd51a55eacd, type: 3}
     m_FontSize: 35
     m_FontStyle: 0
-    m_BestFit: 0
+    m_BestFit: 1
     m_MinSize: 2
     m_MaxSize: 50
     m_Alignment: 4
@@ -11597,7 +12202,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.5
-  m_Text: "Lambang PDI-P berupa gambar banteng dengan latar merah.\r\n"
+  m_Text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
+    fugiat nulla pariatur
 --- !u!222 &1082846733
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -11728,7 +12337,7 @@ MonoBehaviour:
     m_Font: {fileID: 12800000, guid: f0c9e3ada6611f24ab8dedd51a55eacd, type: 3}
     m_FontSize: 35
     m_FontStyle: 0
-    m_BestFit: 0
+    m_BestFit: 1
     m_MinSize: 2
     m_MaxSize: 50
     m_Alignment: 4
@@ -11737,7 +12346,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.5
-  m_Text: "PDI berdiri pada tahun 1973\r\n"
+  m_Text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
+    fugiat nulla pariatur
 --- !u!222 &1097632947
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -11805,7 +12418,7 @@ MonoBehaviour:
     m_Font: {fileID: 12800000, guid: f0c9e3ada6611f24ab8dedd51a55eacd, type: 3}
     m_FontSize: 35
     m_FontStyle: 0
-    m_BestFit: 0
+    m_BestFit: 1
     m_MinSize: 2
     m_MaxSize: 50
     m_Alignment: 4
@@ -11814,7 +12427,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.5
-  m_Text: "Trade Surplus dapat menguatkan rupiah\r\n"
+  m_Text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
+    fugiat nulla pariatur
 --- !u!222 &1113692141
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -11961,7 +12578,7 @@ MonoBehaviour:
     m_Font: {fileID: 12800000, guid: f0c9e3ada6611f24ab8dedd51a55eacd, type: 3}
     m_FontSize: 35
     m_FontStyle: 0
-    m_BestFit: 0
+    m_BestFit: 1
     m_MinSize: 2
     m_MaxSize: 50
     m_Alignment: 4
@@ -11970,7 +12587,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.5
-  m_Text: "Di era Jokowi, Indonesia memiliki 11 bandara baru.\r\n"
+  m_Text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
+    fugiat nulla pariatur
 --- !u!222 &1160368092
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -12146,7 +12767,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 11
+  m_RootOrder: 13
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!50 &1205952576
 Rigidbody2D:
@@ -12420,8 +13041,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -0, y: 0.000040054}
-  m_SizeDelta: {x: 231, y: 75.3}
+  m_AnchoredPosition: {x: -3.23, y: 5.03}
+  m_SizeDelta: {x: 260.75, y: 91.83}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1212479509
 MonoBehaviour:
@@ -12444,11 +13065,11 @@ MonoBehaviour:
   m_FontData:
     m_Font: {fileID: 12800000, guid: f0c9e3ada6611f24ab8dedd51a55eacd, type: 3}
     m_FontSize: 50
-    m_FontStyle: 1
-    m_BestFit: 0
+    m_FontStyle: 0
+    m_BestFit: 1
     m_MinSize: 5
     m_MaxSize: 50
-    m_Alignment: 1
+    m_Alignment: 4
     m_AlignByGeometry: 0
     m_RichText: 1
     m_HorizontalOverflow: 0
@@ -12522,7 +13143,7 @@ MonoBehaviour:
     m_Font: {fileID: 12800000, guid: f0c9e3ada6611f24ab8dedd51a55eacd, type: 3}
     m_FontSize: 35
     m_FontStyle: 0
-    m_BestFit: 0
+    m_BestFit: 1
     m_MinSize: 2
     m_MaxSize: 50
     m_Alignment: 4
@@ -12531,7 +13152,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.5
-  m_Text: "Ketua umum partai PDI-P pernah menjadi presiden Indonesia ke 5\r\n"
+  m_Text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
+    fugiat nulla pariatur
 --- !u!222 &1216823130
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -12599,7 +13224,7 @@ MonoBehaviour:
     m_Font: {fileID: 12800000, guid: f0c9e3ada6611f24ab8dedd51a55eacd, type: 3}
     m_FontSize: 35
     m_FontStyle: 0
-    m_BestFit: 0
+    m_BestFit: 1
     m_MinSize: 2
     m_MaxSize: 50
     m_Alignment: 4
@@ -12608,7 +13233,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.5
-  m_Text: "PDI Perjuangan memiliki sikap tegas dalam pemberantasan korupsi. \r\n"
+  m_Text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
+    fugiat nulla pariatur
 --- !u!222 &1218956214
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -12638,7 +13267,7 @@ Transform:
   - {fileID: 126657203}
   - {fileID: 850970551}
   m_Father: {fileID: 0}
-  m_RootOrder: 4
+  m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1245045153
 GameObject:
@@ -12699,7 +13328,7 @@ MonoBehaviour:
     m_Font: {fileID: 12800000, guid: f0c9e3ada6611f24ab8dedd51a55eacd, type: 3}
     m_FontSize: 35
     m_FontStyle: 0
-    m_BestFit: 0
+    m_BestFit: 1
     m_MinSize: 2
     m_MaxSize: 50
     m_Alignment: 4
@@ -12708,7 +13337,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.5
-  m_Text: "Pada era Jokowi 3,4 juta lapangan kerja dibuka.\r\n"
+  m_Text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
+    fugiat nulla pariatur
 --- !u!222 &1245045156
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -12717,6 +13350,63 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1245045153}
   m_CullTransparentMesh: 0
+--- !u!1001 &1245074556
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1862073501639116, guid: d2a819be0c8eb4b4db7cff36c0d50125, type: 3}
+      propertyPath: m_Name
+      value: Enemy
+      objectReference: {fileID: 0}
+    - target: {fileID: 4456506856063970, guid: d2a819be0c8eb4b4db7cff36c0d50125, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 6.578042
+      objectReference: {fileID: 0}
+    - target: {fileID: 4456506856063970, guid: d2a819be0c8eb4b4db7cff36c0d50125, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 10.456657
+      objectReference: {fileID: 0}
+    - target: {fileID: 4456506856063970, guid: d2a819be0c8eb4b4db7cff36c0d50125, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.171875
+      objectReference: {fileID: 0}
+    - target: {fileID: 4456506856063970, guid: d2a819be0c8eb4b4db7cff36c0d50125, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4456506856063970, guid: d2a819be0c8eb4b4db7cff36c0d50125, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4456506856063970, guid: d2a819be0c8eb4b4db7cff36c0d50125, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4456506856063970, guid: d2a819be0c8eb4b4db7cff36c0d50125, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4456506856063970, guid: d2a819be0c8eb4b4db7cff36c0d50125, type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4456506856063970, guid: d2a819be0c8eb4b4db7cff36c0d50125, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4456506856063970, guid: d2a819be0c8eb4b4db7cff36c0d50125, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4456506856063970, guid: d2a819be0c8eb4b4db7cff36c0d50125, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: d2a819be0c8eb4b4db7cff36c0d50125, type: 3}
 --- !u!1 &1245647130
 GameObject:
   m_ObjectHideFlags: 0
@@ -12806,7 +13496,7 @@ MonoBehaviour:
     m_Font: {fileID: 12800000, guid: f0c9e3ada6611f24ab8dedd51a55eacd, type: 3}
     m_FontSize: 35
     m_FontStyle: 0
-    m_BestFit: 0
+    m_BestFit: 1
     m_MinSize: 2
     m_MaxSize: 50
     m_Alignment: 4
@@ -12815,8 +13505,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.5
-  m_Text: "Sony Kusumo memotivasi para pedagang untuk bangkit kembali setelah kerusuhan
-    1998\r\n"
+  m_Text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
+    fugiat nulla pariatur
 --- !u!222 &1262625772
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -12978,7 +13671,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: af4eb39bead6c5c4d92154ef513e8c90, type: 3}
   m_PlayOnAwake: 0
-  m_Volume: 1
+  m_Volume: 0
   m_Pitch: 1
   Loop: 0
   Mute: 0
@@ -13301,7 +13994,7 @@ MonoBehaviour:
     m_Font: {fileID: 12800000, guid: f0c9e3ada6611f24ab8dedd51a55eacd, type: 3}
     m_FontSize: 35
     m_FontStyle: 0
-    m_BestFit: 0
+    m_BestFit: 1
     m_MinSize: 2
     m_MaxSize: 50
     m_Alignment: 4
@@ -13310,7 +14003,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.5
-  m_Text: "Joko Widodo lahir pada tahun 1961\r\n"
+  m_Text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
+    fugiat nulla pariatur
 --- !u!222 &1317876970
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -13378,7 +14075,7 @@ MonoBehaviour:
     m_Font: {fileID: 12800000, guid: f0c9e3ada6611f24ab8dedd51a55eacd, type: 3}
     m_FontSize: 35
     m_FontStyle: 0
-    m_BestFit: 0
+    m_BestFit: 1
     m_MinSize: 2
     m_MaxSize: 50
     m_Alignment: 4
@@ -13387,7 +14084,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.5
-  m_Text: "Warna khas partai PDI-P adalah warna merah\r\n"
+  m_Text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
+    fugiat nulla pariatur
 --- !u!222 &1320941684
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -13455,7 +14156,7 @@ MonoBehaviour:
     m_Font: {fileID: 12800000, guid: f0c9e3ada6611f24ab8dedd51a55eacd, type: 3}
     m_FontSize: 35
     m_FontStyle: 0
-    m_BestFit: 0
+    m_BestFit: 1
     m_MinSize: 2
     m_MaxSize: 50
     m_Alignment: 4
@@ -13464,7 +14165,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.5
-  m_Text: "Lagu kebangsaan Indonesia adalah Indonesia Raya\r\n"
+  m_Text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
+    fugiat nulla pariatur
 --- !u!222 &1330823179
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -13532,7 +14237,7 @@ MonoBehaviour:
     m_Font: {fileID: 12800000, guid: f0c9e3ada6611f24ab8dedd51a55eacd, type: 3}
     m_FontSize: 35
     m_FontStyle: 0
-    m_BestFit: 0
+    m_BestFit: 1
     m_MinSize: 2
     m_MaxSize: 50
     m_Alignment: 4
@@ -13541,7 +14246,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.5
-  m_Text: "Indonesia memiliki 3 daerah waktu.\r\n"
+  m_Text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
+    fugiat nulla pariatur
 --- !u!222 &1340570384
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -13757,7 +14466,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 7
+  m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1348804152
 GameObject:
@@ -13818,7 +14527,7 @@ MonoBehaviour:
     m_Font: {fileID: 12800000, guid: f0c9e3ada6611f24ab8dedd51a55eacd, type: 3}
     m_FontSize: 35
     m_FontStyle: 0
-    m_BestFit: 0
+    m_BestFit: 1
     m_MinSize: 2
     m_MaxSize: 50
     m_Alignment: 4
@@ -13827,8 +14536,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.5
-  m_Text: "Jokowi memulai masa kepresidenannya dengan meluncurkan Kartu Indonesia
-    Sehat.\r\n"
+  m_Text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
+    fugiat nulla pariatur
 --- !u!222 &1348804155
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -13896,7 +14608,7 @@ MonoBehaviour:
     m_Font: {fileID: 12800000, guid: f0c9e3ada6611f24ab8dedd51a55eacd, type: 3}
     m_FontSize: 35
     m_FontStyle: 0
-    m_BestFit: 0
+    m_BestFit: 1
     m_MinSize: 2
     m_MaxSize: 50
     m_Alignment: 4
@@ -13905,7 +14617,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.5
-  m_Text: "Hari kemerdekaan Indonesia adalah 17 Agustus 1945\r\n"
+  m_Text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
+    fugiat nulla pariatur
 --- !u!222 &1352790761
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -13973,7 +14689,7 @@ MonoBehaviour:
     m_Font: {fileID: 12800000, guid: f0c9e3ada6611f24ab8dedd51a55eacd, type: 3}
     m_FontSize: 35
     m_FontStyle: 0
-    m_BestFit: 0
+    m_BestFit: 1
     m_MinSize: 2
     m_MaxSize: 50
     m_Alignment: 4
@@ -13982,7 +14698,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.5
-  m_Text: "Partai Demokrasi Indonesia Perjuangan\r disingkat menjadi\n"
+  m_Text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
+    fugiat nulla pariatur
 --- !u!222 &1354485919
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -14050,7 +14770,7 @@ MonoBehaviour:
     m_Font: {fileID: 12800000, guid: f0c9e3ada6611f24ab8dedd51a55eacd, type: 3}
     m_FontSize: 35
     m_FontStyle: 0
-    m_BestFit: 0
+    m_BestFit: 1
     m_MinSize: 2
     m_MaxSize: 50
     m_Alignment: 4
@@ -14059,7 +14779,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.5
-  m_Text: "Sebelum menjadi cawapres, Joko Widowo merupakan gubernur DKI Jakarta.\r\n"
+  m_Text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
+    fugiat nulla pariatur
 --- !u!222 &1354499767
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -14128,7 +14852,7 @@ Transform:
   - {fileID: 859837412}
   - {fileID: 1069640969}
   m_Father: {fileID: 0}
-  m_RootOrder: 17
+  m_RootOrder: 19
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1402859960
 GameObject:
@@ -14251,7 +14975,7 @@ MonoBehaviour:
     m_Font: {fileID: 12800000, guid: f0c9e3ada6611f24ab8dedd51a55eacd, type: 3}
     m_FontSize: 35
     m_FontStyle: 0
-    m_BestFit: 0
+    m_BestFit: 1
     m_MinSize: 2
     m_MaxSize: 50
     m_Alignment: 4
@@ -14260,7 +14984,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.5
-  m_Text: "Salah satu tujuan PDI-P adalah berjuang untuk kesejahteraan rakyat\r\n"
+  m_Text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
+    fugiat nulla pariatur
 --- !u!222 &1435913385
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -14400,7 +15128,7 @@ MonoBehaviour:
     m_Font: {fileID: 12800000, guid: f0c9e3ada6611f24ab8dedd51a55eacd, type: 3}
     m_FontSize: 35
     m_FontStyle: 0
-    m_BestFit: 0
+    m_BestFit: 1
     m_MinSize: 2
     m_MaxSize: 50
     m_Alignment: 4
@@ -14409,7 +15137,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.5
-  m_Text: "Salah satu Program Kerja Sony Kusumo adalah Trade Surplus\r\n"
+  m_Text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
+    fugiat nulla pariatur
 --- !u!222 &1452249177
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -14513,7 +15245,7 @@ MonoBehaviour:
     m_Font: {fileID: 12800000, guid: f0c9e3ada6611f24ab8dedd51a55eacd, type: 3}
     m_FontSize: 35
     m_FontStyle: 0
-    m_BestFit: 0
+    m_BestFit: 1
     m_MinSize: 2
     m_MaxSize: 50
     m_Alignment: 4
@@ -14522,7 +15254,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.5
-  m_Text: "Lambang sila ke 1 adalah Bintang\r\n"
+  m_Text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
+    fugiat nulla pariatur
 --- !u!222 &1462041563
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -14590,7 +15326,7 @@ MonoBehaviour:
     m_Font: {fileID: 12800000, guid: f0c9e3ada6611f24ab8dedd51a55eacd, type: 3}
     m_FontSize: 35
     m_FontStyle: 0
-    m_BestFit: 0
+    m_BestFit: 1
     m_MinSize: 2
     m_MaxSize: 50
     m_Alignment: 4
@@ -14599,7 +15335,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.5
-  m_Text: "Di era Jokowi, Indonesia membangun jalan Trans Papua.\r\n"
+  m_Text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
+    fugiat nulla pariatur
 --- !u!222 &1466541158
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -14700,7 +15440,7 @@ Transform:
   m_Children:
   - {fileID: 50884944}
   m_Father: {fileID: 0}
-  m_RootOrder: 5
+  m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!50 &1474548142
 Rigidbody2D:
@@ -14799,7 +15539,7 @@ MonoBehaviour:
     m_Font: {fileID: 12800000, guid: f0c9e3ada6611f24ab8dedd51a55eacd, type: 3}
     m_FontSize: 35
     m_FontStyle: 0
-    m_BestFit: 0
+    m_BestFit: 1
     m_MinSize: 2
     m_MaxSize: 50
     m_Alignment: 4
@@ -14808,7 +15548,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.5
-  m_Text: "Indonesia merupakan negara yang di lewati oleh garis khatulistiwa.\r\n"
+  m_Text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
+    fugiat nulla pariatur
 --- !u!222 &1485452872
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -14876,7 +15620,7 @@ MonoBehaviour:
     m_Font: {fileID: 12800000, guid: f0c9e3ada6611f24ab8dedd51a55eacd, type: 3}
     m_FontSize: 35
     m_FontStyle: 0
-    m_BestFit: 0
+    m_BestFit: 1
     m_MinSize: 2
     m_MaxSize: 50
     m_Alignment: 4
@@ -14885,7 +15629,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.5
-  m_Text: "Indonesia memiliki sekitar 300 kelompok etnis.\r\n"
+  m_Text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
+    fugiat nulla pariatur
 --- !u!222 &1494500232
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -14983,7 +15731,7 @@ MonoBehaviour:
     m_Font: {fileID: 12800000, guid: f0c9e3ada6611f24ab8dedd51a55eacd, type: 3}
     m_FontSize: 35
     m_FontStyle: 0
-    m_BestFit: 0
+    m_BestFit: 1
     m_MinSize: 2
     m_MaxSize: 50
     m_Alignment: 4
@@ -14992,7 +15740,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.5
-  m_Text: "Nama Ibu Negara periode 2015-2019 adalah Iriana Joko Widodo.\r\n"
+  m_Text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
+    fugiat nulla pariatur
 --- !u!222 &1500879722
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -15033,7 +15785,7 @@ RectTransform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 250942657}
-  m_RootOrder: 6
+  m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 90}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -15280,7 +16032,7 @@ MonoBehaviour:
     m_Font: {fileID: 12800000, guid: f0c9e3ada6611f24ab8dedd51a55eacd, type: 3}
     m_FontSize: 35
     m_FontStyle: 0
-    m_BestFit: 0
+    m_BestFit: 1
     m_MinSize: 2
     m_MaxSize: 50
     m_Alignment: 4
@@ -15289,8 +16041,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.5
-  m_Text: "Cara Joko Widodo sering kali melakukan Blusukan untuk mendengarkan aspirasi
-    rakyat.\r\n"
+  m_Text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
+    fugiat nulla pariatur
 --- !u!222 &1526449625
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -15579,7 +16334,7 @@ MonoBehaviour:
     m_Font: {fileID: 12800000, guid: f0c9e3ada6611f24ab8dedd51a55eacd, type: 3}
     m_FontSize: 35
     m_FontStyle: 0
-    m_BestFit: 0
+    m_BestFit: 1
     m_MinSize: 2
     m_MaxSize: 50
     m_Alignment: 4
@@ -15588,7 +16343,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.5
-  m_Text: "Nama PDI berubah menjadi PDI-P saat tahun 1999\r\n"
+  m_Text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
+    fugiat nulla pariatur
 --- !u!222 &1541407312
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -15693,7 +16452,7 @@ MonoBehaviour:
     m_Font: {fileID: 12800000, guid: f0c9e3ada6611f24ab8dedd51a55eacd, type: 3}
     m_FontSize: 35
     m_FontStyle: 0
-    m_BestFit: 0
+    m_BestFit: 1
     m_MinSize: 2
     m_MaxSize: 50
     m_Alignment: 4
@@ -15702,7 +16461,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.5
-  m_Text: "Di era Jokowi, Indonesia berhasil membangun LRT.\r\n"
+  m_Text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
+    fugiat nulla pariatur
 --- !u!222 &1580060343
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -15770,7 +16533,7 @@ MonoBehaviour:
     m_Font: {fileID: 12800000, guid: f0c9e3ada6611f24ab8dedd51a55eacd, type: 3}
     m_FontSize: 35
     m_FontStyle: 0
-    m_BestFit: 0
+    m_BestFit: 1
     m_MinSize: 2
     m_MaxSize: 50
     m_Alignment: 4
@@ -15779,7 +16542,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.5
-  m_Text: "Negara Indonesia terletak di benua Asia.\r\n"
+  m_Text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
+    fugiat nulla pariatur
 --- !u!222 &1586395360
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -15847,7 +16614,7 @@ MonoBehaviour:
     m_Font: {fileID: 12800000, guid: f0c9e3ada6611f24ab8dedd51a55eacd, type: 3}
     m_FontSize: 35
     m_FontStyle: 0
-    m_BestFit: 0
+    m_BestFit: 1
     m_MinSize: 2
     m_MaxSize: 50
     m_Alignment: 4
@@ -15856,7 +16623,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.5
-  m_Text: "Joko Widodo berasal dari partai PDI-P.\r\n"
+  m_Text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
+    fugiat nulla pariatur
 --- !u!222 &1623717617
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -15897,7 +16668,7 @@ RectTransform:
   m_LocalScale: {x: 1.0000005, y: 1.0000005, z: 0.99999994}
   m_Children: []
   m_Father: {fileID: 250942657}
-  m_RootOrder: 7
+  m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: -90}
   m_AnchorMin: {x: 1, y: 0}
   m_AnchorMax: {x: 1, y: 0}
@@ -16067,7 +16838,7 @@ MonoBehaviour:
     m_Font: {fileID: 12800000, guid: f0c9e3ada6611f24ab8dedd51a55eacd, type: 3}
     m_FontSize: 35
     m_FontStyle: 0
-    m_BestFit: 0
+    m_BestFit: 1
     m_MinSize: 2
     m_MaxSize: 50
     m_Alignment: 4
@@ -16076,8 +16847,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.5
-  m_Text: "Pendidikan bermutu yang ditekankan oleh Sony Kusumo salah satunya adalah
-    Kreatifitas\r\n"
+  m_Text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
+    fugiat nulla pariatur
 --- !u!222 &1643248719
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -16145,7 +16919,7 @@ MonoBehaviour:
     m_Font: {fileID: 12800000, guid: f0c9e3ada6611f24ab8dedd51a55eacd, type: 3}
     m_FontSize: 35
     m_FontStyle: 0
-    m_BestFit: 0
+    m_BestFit: 1
     m_MinSize: 2
     m_MaxSize: 50
     m_Alignment: 4
@@ -16154,7 +16928,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.5
-  m_Text: "Lambang sila ke 5 adalah Padi dan Kapas\r\n"
+  m_Text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
+    fugiat nulla pariatur
 --- !u!222 &1644265872
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -16222,7 +17000,7 @@ MonoBehaviour:
     m_Font: {fileID: 12800000, guid: f0c9e3ada6611f24ab8dedd51a55eacd, type: 3}
     m_FontSize: 35
     m_FontStyle: 0
-    m_BestFit: 0
+    m_BestFit: 1
     m_MinSize: 2
     m_MaxSize: 50
     m_Alignment: 4
@@ -16231,7 +17009,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.5
-  m_Text: "Dasar negara Indonesia adalah Pancasila\r\n"
+  m_Text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
+    fugiat nulla pariatur
 --- !u!222 &1657578970
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -16240,6 +17022,41 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1657578967}
   m_CullTransparentMesh: 0
+--- !u!1 &1685465426
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1685465427}
+  m_Layer: 5
+  m_Name: posC
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &1685465427
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1685465426}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1820308261}
+  m_RootOrder: 6
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: -175.99997, y: -51.000084}
+  m_SizeDelta: {x: 312.2, y: 101.899994}
+  m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &1687401332
 GameObject:
   m_ObjectHideFlags: 0
@@ -16299,7 +17116,7 @@ MonoBehaviour:
     m_Font: {fileID: 12800000, guid: f0c9e3ada6611f24ab8dedd51a55eacd, type: 3}
     m_FontSize: 35
     m_FontStyle: 0
-    m_BestFit: 0
+    m_BestFit: 1
     m_MinSize: 2
     m_MaxSize: 50
     m_Alignment: 4
@@ -16308,7 +17125,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.5
-  m_Text: "1 Juni diperingati sebagai Hari Lahir Pancasila\r\n"
+  m_Text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
+    fugiat nulla pariatur
 --- !u!222 &1687401335
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -16549,6 +17370,41 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1 &1713221184
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1713221185}
+  m_Layer: 5
+  m_Name: posA
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &1713221185
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1713221184}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1820308261}
+  m_RootOrder: 4
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: -176, y: 73}
+  m_SizeDelta: {x: 312.2, y: 101.899994}
+  m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &1733329308
 GameObject:
   m_ObjectHideFlags: 0
@@ -16608,7 +17464,7 @@ MonoBehaviour:
     m_Font: {fileID: 12800000, guid: f0c9e3ada6611f24ab8dedd51a55eacd, type: 3}
     m_FontSize: 35
     m_FontStyle: 0
-    m_BestFit: 0
+    m_BestFit: 1
     m_MinSize: 2
     m_MaxSize: 50
     m_Alignment: 4
@@ -16617,7 +17473,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.5
-  m_Text: "Di era Jokowi,  tol laut sudah dikembangkan mencapai 477 lokasi. \r\n"
+  m_Text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
+    fugiat nulla pariatur
 --- !u!222 &1733329311
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -16708,6 +17568,28 @@ MonoBehaviour:
       - m_Target: {fileID: 711300571}
         m_MethodName: Answer
         m_Mode: 6
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 1820308260}
+        m_MethodName: SetActive
+        m_Mode: 6
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 1278930833}
+        m_MethodName: Play
+        m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
@@ -16960,7 +17842,7 @@ MonoBehaviour:
     m_Font: {fileID: 12800000, guid: f0c9e3ada6611f24ab8dedd51a55eacd, type: 3}
     m_FontSize: 35
     m_FontStyle: 0
-    m_BestFit: 0
+    m_BestFit: 1
     m_MinSize: 2
     m_MaxSize: 50
     m_Alignment: 4
@@ -16969,7 +17851,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.5
-  m_Text: "Bentuk pemerintahan Indonesia adalah Republik\r\n"
+  m_Text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
+    fugiat nulla pariatur
 --- !u!222 &1757749810
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -17037,7 +17923,7 @@ MonoBehaviour:
     m_Font: {fileID: 12800000, guid: f0c9e3ada6611f24ab8dedd51a55eacd, type: 3}
     m_FontSize: 35
     m_FontStyle: 0
-    m_BestFit: 0
+    m_BestFit: 1
     m_MinSize: 2
     m_MaxSize: 50
     m_Alignment: 4
@@ -17046,7 +17932,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.5
-  m_Text: "Sony Kusumo memperkenalkan konsep 4M, yaitu salah satunya Mandiri Keluarga\r\n"
+  m_Text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
+    fugiat nulla pariatur
 --- !u!222 &1770341840
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -17157,6 +18047,41 @@ Transform:
   m_Father: {fileID: 534562046}
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1796190963
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1796190964}
+  m_Layer: 5
+  m_Name: posD
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &1796190964
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1796190963}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1820308261}
+  m_RootOrder: 7
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 177, y: -50}
+  m_SizeDelta: {x: 312.2, y: 101.899994}
+  m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &1798352623
 GameObject:
   m_ObjectHideFlags: 0
@@ -17216,7 +18141,7 @@ MonoBehaviour:
     m_Font: {fileID: 12800000, guid: f0c9e3ada6611f24ab8dedd51a55eacd, type: 3}
     m_FontSize: 35
     m_FontStyle: 0
-    m_BestFit: 0
+    m_BestFit: 1
     m_MinSize: 2
     m_MaxSize: 50
     m_Alignment: 4
@@ -17225,8 +18150,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.5
-  m_Text: "\" Keadilan Sosial Bagi Seluruh Rakyat Indonesia.\" merupakan bunyi sila
-    ke 5\r\n"
+  m_Text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
+    fugiat nulla pariatur
 --- !u!222 &1798352626
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -17266,6 +18194,10 @@ RectTransform:
   - {fileID: 328599653}
   - {fileID: 832373402}
   - {fileID: 1741468095}
+  - {fileID: 1713221185}
+  - {fileID: 419514535}
+  - {fileID: 1685465427}
+  - {fileID: 1796190964}
   m_Father: {fileID: 663932852}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -17333,7 +18265,7 @@ MonoBehaviour:
     m_Font: {fileID: 12800000, guid: f0c9e3ada6611f24ab8dedd51a55eacd, type: 3}
     m_FontSize: 35
     m_FontStyle: 0
-    m_BestFit: 0
+    m_BestFit: 1
     m_MinSize: 2
     m_MaxSize: 50
     m_Alignment: 4
@@ -17342,7 +18274,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.5
-  m_Text: "Sebelum nama PDI-P, partai ini bernama PDI\r\n"
+  m_Text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
+    fugiat nulla pariatur
 --- !u!222 &1839933281
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -17410,7 +18346,7 @@ MonoBehaviour:
     m_Font: {fileID: 12800000, guid: f0c9e3ada6611f24ab8dedd51a55eacd, type: 3}
     m_FontSize: 35
     m_FontStyle: 0
-    m_BestFit: 0
+    m_BestFit: 1
     m_MinSize: 2
     m_MaxSize: 50
     m_Alignment: 4
@@ -17419,7 +18355,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.5
-  m_Text: "\"Persatuan Indonesia\" merupakan bunyi sila ke 3\r\n"
+  m_Text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
+    fugiat nulla pariatur
 --- !u!222 &1842516929
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -17487,7 +18427,7 @@ MonoBehaviour:
     m_Font: {fileID: 12800000, guid: f0c9e3ada6611f24ab8dedd51a55eacd, type: 3}
     m_FontSize: 35
     m_FontStyle: 0
-    m_BestFit: 0
+    m_BestFit: 1
     m_MinSize: 2
     m_MaxSize: 50
     m_Alignment: 4
@@ -17496,8 +18436,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.5
-  m_Text: "Joko Widodo menjadi cawapres pilpres 2019 bersama dengan Prof Dr KH Ma'ruf
-    sebagai wakilnya\r\n"
+  m_Text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
+    fugiat nulla pariatur
 --- !u!222 &1845132806
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -17506,6 +18449,67 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1845132803}
   m_CullTransparentMesh: 0
+--- !u!1001 &1859217594
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1334334069703382, guid: ea0f04df64f9b234f96cc73b0427e36c, type: 3}
+      propertyPath: m_Name
+      value: StrikeAmulet (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1334334069703382, guid: ea0f04df64f9b234f96cc73b0427e36c, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4710871584261898, guid: ea0f04df64f9b234f96cc73b0427e36c, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 61.24
+      objectReference: {fileID: 0}
+    - target: {fileID: 4710871584261898, guid: ea0f04df64f9b234f96cc73b0427e36c, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 2.0931044
+      objectReference: {fileID: 0}
+    - target: {fileID: 4710871584261898, guid: ea0f04df64f9b234f96cc73b0427e36c, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.08567751
+      objectReference: {fileID: 0}
+    - target: {fileID: 4710871584261898, guid: ea0f04df64f9b234f96cc73b0427e36c, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4710871584261898, guid: ea0f04df64f9b234f96cc73b0427e36c, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4710871584261898, guid: ea0f04df64f9b234f96cc73b0427e36c, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4710871584261898, guid: ea0f04df64f9b234f96cc73b0427e36c, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4710871584261898, guid: ea0f04df64f9b234f96cc73b0427e36c, type: 3}
+      propertyPath: m_RootOrder
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 4710871584261898, guid: ea0f04df64f9b234f96cc73b0427e36c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4710871584261898, guid: ea0f04df64f9b234f96cc73b0427e36c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4710871584261898, guid: ea0f04df64f9b234f96cc73b0427e36c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ea0f04df64f9b234f96cc73b0427e36c, type: 3}
 --- !u!1 &1864103463
 GameObject:
   m_ObjectHideFlags: 0
@@ -17538,9 +18542,9 @@ RectTransform:
   m_Father: {fileID: 1455987176}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -0.0025034, y: 0}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 1, y: 1}
+  m_AnchoredPosition: {x: -0.0025024414, y: 0}
   m_SizeDelta: {x: -0.0049744, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1864103465
@@ -17637,7 +18641,7 @@ MonoBehaviour:
     m_Font: {fileID: 12800000, guid: f0c9e3ada6611f24ab8dedd51a55eacd, type: 3}
     m_FontSize: 35
     m_FontStyle: 0
-    m_BestFit: 0
+    m_BestFit: 1
     m_MinSize: 2
     m_MaxSize: 50
     m_Alignment: 4
@@ -17646,8 +18650,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.5
-  m_Text: "Sony Kusumo memperkenalkan konsep 4M, yaitu salah satunya Mandiri Ekonomi
-    Negara (Trade Surplus)\r\n"
+  m_Text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
+    fugiat nulla pariatur
 --- !u!222 &1873421234
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -17693,7 +18700,7 @@ RectTransform:
   - {fileID: 1883937101}
   - {fileID: 103692132}
   m_Father: {fileID: 250942657}
-  m_RootOrder: 8
+  m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -17767,7 +18774,7 @@ MonoBehaviour:
     m_Font: {fileID: 12800000, guid: f0c9e3ada6611f24ab8dedd51a55eacd, type: 3}
     m_FontSize: 35
     m_FontStyle: 0
-    m_BestFit: 0
+    m_BestFit: 1
     m_MinSize: 2
     m_MaxSize: 50
     m_Alignment: 4
@@ -17776,7 +18783,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.5
-  m_Text: "Bendera merah putih di jahit oleh Ibu Fatmawati\r\n"
+  m_Text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
+    fugiat nulla pariatur
 --- !u!222 &1880658894
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -18013,7 +19024,7 @@ MonoBehaviour:
     m_Font: {fileID: 12800000, guid: f0c9e3ada6611f24ab8dedd51a55eacd, type: 3}
     m_FontSize: 35
     m_FontStyle: 0
-    m_BestFit: 0
+    m_BestFit: 1
     m_MinSize: 2
     m_MaxSize: 50
     m_Alignment: 4
@@ -18022,7 +19033,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.5
-  m_Text: "Nama lain Pembukaan UUD 1945 adalah Piagam Jakarta\r\n"
+  m_Text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
+    fugiat nulla pariatur
 --- !u!222 &1885459225
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -18090,7 +19105,7 @@ MonoBehaviour:
     m_Font: {fileID: 12800000, guid: f0c9e3ada6611f24ab8dedd51a55eacd, type: 3}
     m_FontSize: 35
     m_FontStyle: 0
-    m_BestFit: 0
+    m_BestFit: 1
     m_MinSize: 2
     m_MaxSize: 50
     m_Alignment: 4
@@ -18099,7 +19114,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.5
-  m_Text: "Di era Jokowi, pembagian kartu Indonesia pintar mencapai 20 Juta.\r\n"
+  m_Text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
+    fugiat nulla pariatur
 --- !u!222 &1892776694
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -18167,7 +19186,7 @@ MonoBehaviour:
     m_Font: {fileID: 12800000, guid: f0c9e3ada6611f24ab8dedd51a55eacd, type: 3}
     m_FontSize: 35
     m_FontStyle: 0
-    m_BestFit: 0
+    m_BestFit: 1
     m_MinSize: 2
     m_MaxSize: 50
     m_Alignment: 4
@@ -18176,7 +19195,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.5
-  m_Text: "Lambang negara indonesia adalah Garuda Pancasila\r\n"
+  m_Text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
+    fugiat nulla pariatur
 --- !u!222 &1908240160
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -18244,7 +19267,7 @@ MonoBehaviour:
     m_Font: {fileID: 12800000, guid: f0c9e3ada6611f24ab8dedd51a55eacd, type: 3}
     m_FontSize: 35
     m_FontStyle: 0
-    m_BestFit: 0
+    m_BestFit: 1
     m_MinSize: 2
     m_MaxSize: 50
     m_Alignment: 4
@@ -18253,7 +19276,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.5
-  m_Text: "Sistem pemerintahan Indonesia adalah Presidential\r\n"
+  m_Text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
+    fugiat nulla pariatur
 --- !u!222 &1914338736
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -18321,7 +19348,7 @@ MonoBehaviour:
     m_Font: {fileID: 12800000, guid: f0c9e3ada6611f24ab8dedd51a55eacd, type: 3}
     m_FontSize: 35
     m_FontStyle: 0
-    m_BestFit: 0
+    m_BestFit: 1
     m_MinSize: 2
     m_MaxSize: 50
     m_Alignment: 4
@@ -18330,7 +19357,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.5
-  m_Text: "\"Kemanusiaan yang Adil dan Beradab\" merupakan bunyi sila ke 2\r\n"
+  m_Text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
+    fugiat nulla pariatur
 --- !u!222 &1924290294
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -18380,7 +19411,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4518655307213944, guid: acc054235ba3e634ab6c94ef5c64c294, type: 3}
       propertyPath: m_RootOrder
-      value: 3
+      value: 4
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: acc054235ba3e634ab6c94ef5c64c294, type: 3}
@@ -18443,7 +19474,7 @@ MonoBehaviour:
     m_Font: {fileID: 12800000, guid: f0c9e3ada6611f24ab8dedd51a55eacd, type: 3}
     m_FontSize: 35
     m_FontStyle: 0
-    m_BestFit: 0
+    m_BestFit: 1
     m_MinSize: 2
     m_MaxSize: 50
     m_Alignment: 4
@@ -18452,7 +19483,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.5
-  m_Text: "Proklamasi di bacakan pada Jalan Pegangsaan Timur No 56\r\n"
+  m_Text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
+    fugiat nulla pariatur
 --- !u!222 &1936098887
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -18573,7 +19608,7 @@ MonoBehaviour:
   - {fileID: 1239506395893502, guid: 660771353aa5366479942bc73ac2477d, type: 3}
   - {fileID: 1071772357382576, guid: f7c65cd39947f514c9a5c955969a8d2b, type: 3}
   - {fileID: 1334334069703382, guid: ea0f04df64f9b234f96cc73b0427e36c, type: 3}
-  - {fileID: 1714929496687924, guid: 3a4b6e090b2ba564a804f9949354a71b, type: 3}
+  - {fileID: 1334334069703382, guid: ea0f04df64f9b234f96cc73b0427e36c, type: 3}
   SelectedItem: {fileID: 0}
   CoolDown: 3
   ActualCoolDown: 0
@@ -18597,7 +19632,7 @@ Transform:
   - {fileID: 1499721537}
   - {fileID: 743952291}
   m_Father: {fileID: 0}
-  m_RootOrder: 9
+  m_RootOrder: 10
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1984771134
 GameObject:
@@ -18658,7 +19693,7 @@ MonoBehaviour:
     m_Font: {fileID: 12800000, guid: f0c9e3ada6611f24ab8dedd51a55eacd, type: 3}
     m_FontSize: 35
     m_FontStyle: 0
-    m_BestFit: 0
+    m_BestFit: 1
     m_MinSize: 2
     m_MaxSize: 50
     m_Alignment: 4
@@ -18667,7 +19702,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.5
-  m_Text: "Ibukota indonesia adalah DKI Jakarta\r\n"
+  m_Text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
+    fugiat nulla pariatur
 --- !u!222 &1984771137
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -18766,6 +19805,28 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 1
         m_CallState: 2
+      - m_Target: {fileID: 1820308260}
+        m_MethodName: SetActive
+        m_Mode: 6
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 1211962452}
+        m_MethodName: Play
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &2028899831
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -18860,7 +19921,7 @@ MonoBehaviour:
     m_Font: {fileID: 12800000, guid: f0c9e3ada6611f24ab8dedd51a55eacd, type: 3}
     m_FontSize: 35
     m_FontStyle: 0
-    m_BestFit: 0
+    m_BestFit: 1
     m_MinSize: 2
     m_MaxSize: 50
     m_Alignment: 4
@@ -18869,7 +19930,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.5
-  m_Text: "Pada tahun 2003, Sony Kusumo membangun rumah jompo untuk manula\r\n"
+  m_Text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
+    fugiat nulla pariatur
 --- !u!222 &2033408522
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -18937,7 +20002,7 @@ MonoBehaviour:
     m_Font: {fileID: 12800000, guid: f0c9e3ada6611f24ab8dedd51a55eacd, type: 3}
     m_FontSize: 35
     m_FontStyle: 0
-    m_BestFit: 0
+    m_BestFit: 1
     m_MinSize: 2
     m_MaxSize: 50
     m_Alignment: 4
@@ -18946,7 +20011,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.5
-  m_Text: "Pencipta lagu Indonesia Raya adalah W.R Soepratman\r\n"
+  m_Text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
+    fugiat nulla pariatur
 --- !u!222 &2060959560
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -19014,7 +20083,7 @@ MonoBehaviour:
     m_Font: {fileID: 12800000, guid: f0c9e3ada6611f24ab8dedd51a55eacd, type: 3}
     m_FontSize: 35
     m_FontStyle: 0
-    m_BestFit: 0
+    m_BestFit: 1
     m_MinSize: 2
     m_MaxSize: 50
     m_Alignment: 4
@@ -19023,7 +20092,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.5
-  m_Text: "Pada pemilu 2019, Jokowi-Ma'aruf mendapatkan nomor urut 1.\r\n"
+  m_Text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
+    fugiat nulla pariatur
 --- !u!222 &2065442345
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -19218,7 +20291,7 @@ MonoBehaviour:
     m_Font: {fileID: 12800000, guid: f0c9e3ada6611f24ab8dedd51a55eacd, type: 3}
     m_FontSize: 35
     m_FontStyle: 0
-    m_BestFit: 0
+    m_BestFit: 1
     m_MinSize: 2
     m_MaxSize: 50
     m_Alignment: 4
@@ -19227,8 +20300,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.5
-  m_Text: "Pendidikan bermutu yang ditekankan oleh Sony Kusumo salah satunya adalah
-    Memahami Sebab-Akibat\r\n"
+  m_Text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
+    fugiat nulla pariatur
 --- !u!222 &2075621036
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -19423,7 +20499,7 @@ MonoBehaviour:
     m_Font: {fileID: 12800000, guid: f0c9e3ada6611f24ab8dedd51a55eacd, type: 3}
     m_FontSize: 35
     m_FontStyle: 0
-    m_BestFit: 0
+    m_BestFit: 1
     m_MinSize: 2
     m_MaxSize: 50
     m_Alignment: 4
@@ -19432,7 +20508,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.5
-  m_Text: "Lambang sila ke 3 adalah Pohon Beringin\r\n"
+  m_Text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
+    fugiat nulla pariatur
 --- !u!222 &2077387086
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -19683,7 +20763,7 @@ MonoBehaviour:
     m_Font: {fileID: 12800000, guid: f0c9e3ada6611f24ab8dedd51a55eacd, type: 3}
     m_FontSize: 35
     m_FontStyle: 0
-    m_BestFit: 0
+    m_BestFit: 1
     m_MinSize: 2
     m_MaxSize: 50
     m_Alignment: 4
@@ -19692,7 +20772,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.5
-  m_Text: "Pada pilpres 2014 Joko Widodo berpasangan dengan Jusuf kalla.\r\n"
+  m_Text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
+    fugiat nulla pariatur
 --- !u!222 &2107462007
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -19701,6 +20785,67 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2107462004}
   m_CullTransparentMesh: 0
+--- !u!1001 &2114620108
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1334334069703382, guid: ea0f04df64f9b234f96cc73b0427e36c, type: 3}
+      propertyPath: m_Name
+      value: StrikeAmulet (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1334334069703382, guid: ea0f04df64f9b234f96cc73b0427e36c, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4710871584261898, guid: ea0f04df64f9b234f96cc73b0427e36c, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 37.57
+      objectReference: {fileID: 0}
+    - target: {fileID: 4710871584261898, guid: ea0f04df64f9b234f96cc73b0427e36c, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 2.0931044
+      objectReference: {fileID: 0}
+    - target: {fileID: 4710871584261898, guid: ea0f04df64f9b234f96cc73b0427e36c, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.08567751
+      objectReference: {fileID: 0}
+    - target: {fileID: 4710871584261898, guid: ea0f04df64f9b234f96cc73b0427e36c, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4710871584261898, guid: ea0f04df64f9b234f96cc73b0427e36c, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4710871584261898, guid: ea0f04df64f9b234f96cc73b0427e36c, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4710871584261898, guid: ea0f04df64f9b234f96cc73b0427e36c, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4710871584261898, guid: ea0f04df64f9b234f96cc73b0427e36c, type: 3}
+      propertyPath: m_RootOrder
+      value: 18
+      objectReference: {fileID: 0}
+    - target: {fileID: 4710871584261898, guid: ea0f04df64f9b234f96cc73b0427e36c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4710871584261898, guid: ea0f04df64f9b234f96cc73b0427e36c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4710871584261898, guid: ea0f04df64f9b234f96cc73b0427e36c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ea0f04df64f9b234f96cc73b0427e36c, type: 3}
 --- !u!1 &2120336135
 GameObject:
   m_ObjectHideFlags: 0

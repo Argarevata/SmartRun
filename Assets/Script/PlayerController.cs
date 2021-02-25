@@ -111,12 +111,18 @@ public class PlayerController : MonoBehaviour {
 		ActualJumpCoolDown += Time.unscaledDeltaTime;
 		//Jika player tekkan 'Space' atau tombol lompat
 		if ((Input.GetKeyDown (KeyCode.Space) || Input.GetKeyDown(KeyCode.UpArrow) || TheSwipe.Swipe_Up == true) && Grounded == true && CanMove == true && (PlayerPrefs.GetInt("Control")==1)) {
-			Jump ();
+			if (Time.timeScale == 1)
+			{
+				Jump();
+			}
 		}
 
 		//Jika player tekkan tombol slide
 		if ((Input.GetKeyDown (KeyCode.DownArrow) || TheSwipe.Swipe_Down == true) && ActualSlideCoolDown>=SlideCoolDown && CanMove ==true && (PlayerPrefs.GetInt("Control")==1)) {
-			Slide ();
+			if (Time.timeScale == 1)
+			{
+				Slide();
+			}
 		}
 
 		if (Input.GetKeyDown (KeyCode.E)) {
@@ -233,11 +239,11 @@ public class PlayerController : MonoBehaviour {
 		}
 
 		//Super Mode
-		if (TheSwipe.Swipe_Right == true && Time.timeScale==1 && theSuper.EnergyBar.value>99) {
-			SuperMode = true;
-			theSuper.EnergyBar.value = 98;
-			TheSFX.BoostSFX.Play ();
-		}
+		//if (TheSwipe.Swipe_Right == true && Time.timeScale==1 && theSuper.EnergyBar.value>99) {
+		//	SuperMode = true;
+		//	theSuper.EnergyBar.value = 98;
+		//	TheSFX.BoostSFX.Play ();
+		//}
 
 		if (SuperMode == true) {
 			ActualSuperMode += Time.deltaTime;
