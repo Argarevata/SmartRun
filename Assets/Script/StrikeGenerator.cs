@@ -19,6 +19,7 @@ public class StrikeGenerator : MonoBehaviour {
 	public GameObject spawnedRocket1, spawnedRocket2;
 
 	public GameObject BadThumbs, BadThumbsLandscape;
+	public Text correctAnswer;
 	public GameObject GoodThumbs, GoodThumbsLandscape;
 
 	private PlayerController ThePlayer;
@@ -65,8 +66,12 @@ public class StrikeGenerator : MonoBehaviour {
 	public int[] filledPos;
 	public ScoreController TheScore;
 
+	public bool sequential, totallyRandom;
+	public int sequentNumber;
+
 	// Use this for initialization
 	void Start () {
+		sequentNumber = 0;
 		TheDestroyer.SetActive (false);
 		MyBody = GetComponent<Rigidbody2D> ();
 		ThePlayer = FindObjectOfType<PlayerController> ();
@@ -99,20 +104,42 @@ public class StrikeGenerator : MonoBehaviour {
 	//Menampilkan pertanyaan 
 	void CreateStrike()
 	{
-		//Random pertanyaan yang akan muncul diambil dari info yang sudah pernah muncul
-		int no = Random.Range (0, TheInfo.OutInfos.Length);
+		int randQuestion = 0;
+		TheInfo.IsShowingInfo = true;
 
 		buttonGroup.SetActive(true);
 
-		if (no == lastQuestion) {
-			do {
-				no = Random.Range (0, TheInfo.OutInfos.Length);
-			} while(no == lastQuestion);
+		if (!sequential && !totallyRandom)
+		{
+			//Random pertanyaan yang akan muncul diambil dari info yang sudah pernah muncul
+			int no = Random.Range(0, TheInfo.OutInfos.Length);
+
+			if (no == lastQuestion)
+			{
+				do
+				{
+					no = Random.Range(0, TheInfo.OutInfos.Length);
+				} while (no == lastQuestion);
+			}
+
+			lastQuestion = no;
+
+			randQuestion = TheInfo.OutInfos[no];
 		}
-
-		lastQuestion = no;
-
-		int randQuestion = TheInfo.OutInfos [no];
+		else if (sequential)
+		{
+			randQuestion = sequentNumber;
+			sequentNumber++;
+			if (sequentNumber > Questions.Length - 1)
+			{
+				sequentNumber = 0;
+				print("ALL QUESTION ANSWERED");
+			}
+		}
+		else if (totallyRandom)
+		{
+			randQuestion = Random.Range(0, Questions.Length);
+		}
 
 		TheInfo.StopCoroutine ("Hide");
 
@@ -130,6 +157,7 @@ public class StrikeGenerator : MonoBehaviour {
 		TheWrongAnswer.text = "";
 
 		textBtn1.text = RightAnswer[randQuestion];
+		correctAnswer.text = "Jawaban yang benar adalah\r\n" + RightAnswer[randQuestion];
 		textBtn2.text = WrongAnswer[randQuestion];
 		textBtn3.text = WrongAnswer2[randQuestion];
 		textBtn4.text = WrongAnswer3[randQuestion];
@@ -320,6 +348,7 @@ public class StrikeGenerator : MonoBehaviour {
 		theRocketTimer.gameObject.SetActive(false);
 		TheQuestion.gameObject.SetActive(false);
 		Box.SetActive(false);
+		TheInfo.IsShowingInfo = false;
 		Time.timeScale = 1;
 	}
 

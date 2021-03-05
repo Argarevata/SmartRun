@@ -73,7 +73,7 @@ public class PlayerController : MonoBehaviour {
     // Use this for initialization
     void Start () {
 		if (Endless == true) {
-			int p = PlayerPrefs.GetInt ("Player");
+			int p = PlayerPrefs.GetInt ("gender")-1;
 			Char [p].SetActive (true);
 		}
 		theInfo = FindObjectOfType<InfoController> ();

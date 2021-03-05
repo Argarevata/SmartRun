@@ -40,17 +40,17 @@ public class ParallaxSpawner : MonoBehaviour {
 			{
 				case 8:
 					{
-						CoolDown = Random.Range(3f, 4f);
+						CoolDown = Random.Range(1.5f, 2f);
 						break;
 					}
 				case 10:
 					{
-						CoolDown = Random.Range(2.5f, 3f);
+						CoolDown = Random.Range(1.5f, 2f);
 						break;
 					}
 				case 11:
 					{
-						CoolDown = Random.Range(2f, 2.5f);
+						CoolDown = Random.Range(1.5f, 2f);
 						break;
 					}
 				case 12:
@@ -75,7 +75,16 @@ public class ParallaxSpawner : MonoBehaviour {
 					}
 			}
 
-			int rand = Random.Range (0, Parallax.Length);
+			int rand = 0;
+			if (ThePlayer.TheScore.MyScore <= 100)
+			{
+				rand = Random.Range(30, 60);
+			}
+			else
+			{
+				rand = Random.Range(0, 30);
+			}
+			
 			Instantiate (Parallax [rand], transform.position, transform.rotation);
 		}
 

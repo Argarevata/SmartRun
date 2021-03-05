@@ -20,6 +20,9 @@ public class InfoController : MonoBehaviour {
 	private PlayerController thePlayer;
 	public GameObject buttonOkay;
 
+	public bool sequential;
+	public int sequentNumber;
+
 	// Use this for initialization
 	void Start () {
 		//PlayerPrefs.SetInt ("Orientation", 0);
@@ -27,6 +30,7 @@ public class InfoController : MonoBehaviour {
 		SumNum = 0;
 		LastInfoShown = 0;
 		thePlayer = FindObjectOfType<PlayerController> ();
+		sequentNumber = 0;
 	}
 	
 	// Update is called once per frame
@@ -37,21 +41,39 @@ public class InfoController : MonoBehaviour {
 	//Function untuk melakukan random dan menampilkan info yang akan muncul
 	public void ShowInfo()
 	{
+		int RandomNum = 0;
+
 		StopCoroutine ("Hide");
 		Face.SetActive (true);
 		IsShowingInfo = true;
 
-		int RandomNum = Random.Range (1, Info.Length);
+		if (!sequential)
+		{
+			RandomNum = Random.Range(1, Info.Length);
 
-		if (RandomNum == LastInfoShown) {
-			do {
-				RandomNum = Random.Range (1, Info.Length);
-			} while(RandomNum == LastInfoShown);
+			if (RandomNum == LastInfoShown)
+			{
+				do
+				{
+					RandomNum = Random.Range(1, Info.Length);
+				} while (RandomNum == LastInfoShown);
+			}
+
+			LastInfoShown = RandomNum;
+			if (thePlayer.Endless)
+			{
+				PlayerPrefs.SetInt(LastInfoShown.ToString(), 99);
+			}
 		}
-			
-		LastInfoShown = RandomNum;
-		if (thePlayer.Endless) {
-			PlayerPrefs.SetInt (LastInfoShown.ToString (), 99);
+		else
+		{
+			RandomNum = sequentNumber;
+			sequentNumber++;
+			if (sequentNumber > Info.Length-1)
+			{
+				sequentNumber = 0;
+				print("YOU WIN CONGRATSSSS");
+			}
 		}
 
 		for (int i = 0; i < Info.Length; i++) {

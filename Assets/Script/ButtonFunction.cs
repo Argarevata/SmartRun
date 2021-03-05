@@ -19,6 +19,9 @@ public class ButtonFunction : MonoBehaviour {
 	public GameObject Buttons;
 	public GameObject ButtonsLandscape;
 
+	public bool inMainMenu;
+	public Image cowokImg, cewekImg;
+
 	// Use this for initialization
 	void Start () {
 		//Mereset timescale setiap game berjalam
@@ -53,7 +56,25 @@ public class ButtonFunction : MonoBehaviour {
 				}
 			}
 		}
-			
+
+		if (inMainMenu)
+		{
+			if (PlayerPrefs.GetInt("gender") == 0)
+			{
+				PlayerPrefs.SetInt("gender", 1);
+			}
+
+			if (PlayerPrefs.GetInt("gender") == 1)
+			{
+				cewekImg.color = new Color(0.6f, 0.6f, 0.6f, 1);
+				cowokImg.color = new Color(1, 1, 1, 1);
+			}
+			else if (PlayerPrefs.GetInt("gender") == 2)
+			{
+				cowokImg.color = new Color(0.6f, 0.6f, 0.6f, 1);
+				cewekImg.color = new Color(1, 1, 1, 1);
+			}
+		}
 	}
 	
 	// Update is called once per frame
@@ -109,5 +130,22 @@ public class ButtonFunction : MonoBehaviour {
 	public void GoToLevel(string x)
 	{
 		Application.LoadLevel (x);
+	}
+
+	public void ChooseGender(int x)
+	{
+		// 1 = cowo || 2 = cewek
+		PlayerPrefs.SetInt("gender", x);
+
+		if (PlayerPrefs.GetInt("gender") == 1)
+		{
+			cewekImg.color = new Color(0.6f, 0.6f, 0.6f, 1);
+			cowokImg.color = new Color(1, 1, 1, 1);
+		}
+		else if (PlayerPrefs.GetInt("gender") == 2)
+		{
+			cowokImg.color = new Color(0.6f, 0.6f, 0.6f, 1);
+			cewekImg.color = new Color(1, 1, 1, 1);
+		}
 	}
 }

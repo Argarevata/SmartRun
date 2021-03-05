@@ -10,6 +10,7 @@ public class PlatformSpawner : MonoBehaviour {
 
 	//Jenis jenis platform yang ingin digenerate
 	public GameObject[] Platforms;
+	public GameObject Gate;
 
 	[SerializeField]
 	public float CoolDown = 5f;
@@ -19,6 +20,7 @@ public class PlatformSpawner : MonoBehaviour {
 	private PlayerController ThePlayer;
 
 	public Rigidbody2D MyBody;
+	private bool createGate;
 
 	// Use this for initialization
 	void Start () {
@@ -53,7 +55,19 @@ public class PlatformSpawner : MonoBehaviour {
 	void OnTriggerEnter2D(Collider2D other)
 	{
 		if (other.name == "PlatformEnd") {
-			Instantiate (Platforms [0], transform.position, transform.rotation);
+			if (ThePlayer.TheScore.MyScore <= 100)
+			{
+				Instantiate(Platforms[0], transform.position, transform.rotation);
+			}
+			else
+			{
+				if (!createGate)
+				{
+					Instantiate(Gate, transform.position, transform.rotation);
+					createGate = true;
+				}
+				Instantiate(Platforms[1], transform.position, transform.rotation);
+			}
 		}
 	}
 }

@@ -36,6 +36,7 @@ public class ObstacleSpawner : MonoBehaviour {
 		ThePlayer = FindObjectOfType<PlayerController> ();
 		CreatingNow = false;
 		TheInfo = FindObjectOfType<InfoController> ();
+		CoolDown = 1;
 	}
 	
 	// Update is called once per frame

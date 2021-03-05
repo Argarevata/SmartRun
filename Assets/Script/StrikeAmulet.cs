@@ -31,6 +31,7 @@ public class StrikeAmulet : MonoBehaviour {
 				}
 				Instantiate (Particles, transform.position, transform.rotation);
 				ThePlayer.Grounded = true;
+				ThePlayer.Anim.SetBool("Jump", false);
 				ThePlayer.ActualSlideCoolDown = ThePlayer.SlideCoolDown;
 				ThePlayer.transform.position = new Vector2 (ThePlayer.transform.position.x, 0.09f);
 				ThePlayer.MyBody.velocity = new Vector2 (ThePlayer.MyBody.velocity.x, 0);
